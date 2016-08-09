@@ -21,7 +21,7 @@
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD
 - [KiCad Gerbview](http://kicad-pcb.org/) - KiCad comes with a Gerber viewer
 
-### Free EDA Packages
+## Free EDA Packages
 - [KiCad](http://kicad-pcb.org/) - Open source EDA package that has been gaining a lot of steam recently
 - [Eagle](https://cadsoft.io/) - One of the most popular EDA packages due to it's (restricted) free version
 - [Design Spark PCB](http://www.rs-online.com/designspark/electronics/eng/page/designspark-pcb-home-page) - Gratis EDA package without restrictions, sponserd by RS Components
