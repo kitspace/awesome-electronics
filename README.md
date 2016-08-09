@@ -3,6 +3,10 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
+## Simulators
+- [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulato 
+- [LTSpice](http://www.linear.com/designtools/software/#LTspice) - The industry standard free circuit simulator from Linear Technologies
+- 
 ## Part Search Engines
 
 - [Octopart](https://octopart.com) - Probably the most well known part search engine
