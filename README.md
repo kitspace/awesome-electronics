@@ -26,4 +26,9 @@
 - [Eagle](https://cadsoft.io/) - One of the most popular EDA packages due to it's (restricted) free version
 - [Design Spark PCB](http://www.rs-online.com/designspark/electronics/eng/page/designspark-pcb-home-page) - Gratis EDA package without restrictions, sponserd by RS Components
 - [Altium Circuit Maker](http://circuitmaker.com/) - Free package from the maker of the goto pro software
-- [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux only 
+- [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux only
+
+## Podcasts
+ -[The Amp Hour](http://www.theamphour.com/) - An off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
+ - [Embedded FM](http://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests
+ - [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific technical topic each episode, sometimes with guests
