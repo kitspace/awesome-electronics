@@ -4,8 +4,8 @@
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
 ## Simulators
-- [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulato 
-- [LTSpice](http://www.linear.com/designtools/software/#LTspice) - The industry standard free circuit simulator from Linear Technologies
+- [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator
+- [LTSpice](http://www.linear.com/designtools/software/#LTspice) - The industry standard free SPICE circuit simulator from Linear Technologies
 
 ## Part Search Engines
 
