@@ -13,10 +13,12 @@
 - [Gerber Viewers](#gerber-viewers)
   * [Online](#online)
   * [Installable](#installable)
+- [Miscellaneous Web Services](#miscellaneous-web-services)
 - [Free EDA Packages](#free-eda-packages)
 - [CAD Specific](#cad-specific)
   * [KiCAD](#kicad)
   * [Eagle](#eagle)
+- [Blogs](#blogs)
 - [Forums](#forums)
   * [Discussion](#discussion)
   * [Help](#help)
@@ -53,7 +55,7 @@
 ## Miscellaneous Web Services
 - [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
 - [Hackaday.io](https://hackaday.io) - A social site for sharing projects from the popular blog.
-- [Kitnic.it](https://kitnic.it)  - Project sharing site that lets you easily buy the parts from yours truly.
+- [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 
 
 ## Free EDA Packages
@@ -74,6 +76,9 @@
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 
+
+## Blogs
+- [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking.
 
 ## Forums
 
