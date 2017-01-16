@@ -50,6 +50,12 @@
 - [KiCad Gerbview](http://kicad-pcb.org/) - The KiCAD gerber viewer
 
 
+## Miscellaneous Web Services
+- [Eyrie.io](https://eyrie.io) for viewing Eagle and KiCAD designs online
+- [Hackaday.io](https://hackaday.io) a social site for sharing projects from the popular blog.
+- [Kitnic.it](https://kitnic.it) project sharing site that lets you easily buy the parts from yours truly.
+
+
 ## Free EDA Packages
 - [KiCAD](http://kicad-pcb.org/) - Open source EDA package with push and shove router, differential pairs and much more.
 - [Eagle](https://cadsoft.io/) - One of the most popular EDA packages due to it's (board size restricted) free version.
@@ -63,6 +69,7 @@
 ### KiCAD
 - [Xesscorp's list of KiCAD 3rd part tools](https://github.com/xesscorp/kicad-3rd-party-tools)
 - [Contextual Electronics' KiCAD 4.0 video tutorials](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) for beginners.
+- [KiCAD.info user forums](https://forum.kicad.info) 
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
@@ -87,7 +94,6 @@
 
 
 ## Video Shows and Tutorials
-
 - [EEVblog](https://www.youtube.com/user/EEVblog) is one of the earliest and most successful YouTube channels where Dave Jones does Teardowns, tutorials and more. 
 - [ElectroBOOM](https://www.youtube.com/user/msadaghd) is a YouTube channel that debunks and explains EE topics with a lot of comedy thrown in.
 - [Micah Scott](https://www.youtube.com/user/micahjd) makes video logs of reverse engineering and re-purposing consumer electronics hardware in creative ways.
