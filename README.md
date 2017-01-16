@@ -23,7 +23,7 @@
   * [Discussion](#discussion)
   * [Help](#help)
 - [Podcasts](#podcasts)
-- [Video Shows and Tutorials](#video-shows-and-tutorials)
+- [Videos](#videos)
 
 <!-- tocstop -->
 
@@ -98,7 +98,7 @@
  - [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
 
 
-## Video Shows and Tutorials
+## Videos
 - [EEVblog](https://www.youtube.com/user/EEVblog) - One of the earliest and most successful YouTube channels where Dave Jones does Teardowns, tutorials and more. 
 - [ElectroBOOM](https://www.youtube.com/user/msadaghd) - A YouTube channel that debunks and explains EE topics with a lot of comedy thrown in.
 - [Micah Scott](https://www.youtube.com/user/micahjd) - Video logs of reverse engineering and re-purposing consumer electronics hardware in creative ways.
