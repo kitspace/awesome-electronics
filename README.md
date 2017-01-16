@@ -5,6 +5,7 @@
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
 ## Table of Contents
+
 <!-- toc -->
 
 - [Simulators](#simulators)
@@ -24,11 +25,13 @@
 - [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator
 - [LTSpice](http://www.linear.com/designtools/software/#LTspice) - The industry standard free SPICE circuit simulator from Linear Technologies
 
+
 ## Part Search Engines
 
 - [Octopart](https://octopart.com) - Probably the most well known part search engine
 - [Findchips](https://findchips.com) - Part search from Supply Frame
 - [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts
+
 
 ## Gerber Viewers
 
@@ -41,6 +44,7 @@
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD
 - [KiCad Gerbview](http://kicad-pcb.org/) - The KiCAD gerber viewer
+
 
 ## Free EDA Packages
 - [KiCAD](http://kicad-pcb.org/) - Open source EDA package with push and shove router, differential pairs and much more.
@@ -56,12 +60,12 @@
 
 
 ## Forums
- ### Discussion
- - [EEVBlog forum](https://www.eevblog.com/forum) probably the largest and most active forum to discuss electronic engineering topics.
- - [/r/electronics](https://reddit.com/r/electronics) and [/r/ECE](https://reddit.com/r/ECE) are the two most active sub-reddits for EE topics.
 
+### Discussion
+- [EEVBlog forum](https://www.eevblog.com/forum) probably the largest and most active forum to discuss electronic engineering topics.
+- [/r/electronics](https://reddit.com/r/electronics) and [/r/ECE](https://reddit.com/r/ECE) are the two most active sub-reddits for EE topics.
 
- ### Help
-  - [/r/askelectronics](https://reddit.com/r/askelectronics) is a sub-reddit dedicated to help on electronics topics.
-  - [Electronics StackExchange](https://electronics.stackexchange.com) is a question and answer site for electronics running on the popular StackOverflow service.
-  - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners) is a good place for beginner questions, other sub-forums on EEVblog should be suitable for more advanced topics.
+### Help
+ - [/r/askelectronics](https://reddit.com/r/askelectronics) is a sub-reddit dedicated to help on electronics topics.
+ - [Electronics StackExchange](https://electronics.stackexchange.com) is a question and answer site for electronics running on the popular StackOverflow service.
+ - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners) is a good place for beginner questions, other sub-forums on EEVblog should be suitable for more advanced topics.
