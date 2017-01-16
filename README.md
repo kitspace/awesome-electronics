@@ -42,19 +42,19 @@
 ## Gerber Viewers
 
 ### Online
-- [Gerblook](http://gerblook.org/) - An online Gerber viewer powered by Gerbv
-- [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) - An online 3d Gerber viewer
-- [Tracespace Viewer](http://viewer.tracespace.io) -  A Gerber viewer that lets you inspect the individual layers as well as the board preview
-- [EasyEDA Gerber Viewer](https://gerber-viewer.easyeda.com/) - Viewer and design for manufacture test
+- [Tracespace Viewer](http://viewer.tracespace.io) -  Gerber viewer that lets you inspect the individual layers as well as the board preview.
+- [Gerblook](http://gerblook.org/) - Online Gerber viewer powered by Gerbv.
+- [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) - An online 3d Gerber viewer.
+- [EasyEDA Gerber Viewer](https://gerber-viewer.easyeda.com/) - Viewer and design for manufacture test.
 
 ### Installable
-- [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD
-- [KiCad Gerbview](http://kicad-pcb.org/) - The KiCAD gerber viewer
+- [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
+- [KiCad Gerbview](http://kicad-pcb.org/) - The KiCAD gerber viewer.
 
 
 ## Miscellaneous Web Services
 - [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
-- [Hackaday.io](https://hackaday.io) - A social site for sharing projects from the popular blog.
+- [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 - [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 
 
@@ -87,20 +87,20 @@
 - [/r/electronics](https://reddit.com/r/electronics) and [/r/ECE](https://reddit.com/r/ECE) are the two most active sub-reddits for EE topics.
 
 ### Help
- - [/r/askelectronics](https://reddit.com/r/askelectronics) - A sub-reddit dedicated to help on electronics topics.
- - [Electronics StackExchange](https://electronics.stackexchange.com) - A question and answer site for electronics running on the popular StackOverflow service.
- - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners) - A good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
+ - [/r/askelectronics](https://reddit.com/r/askelectronics) - Sub-reddit dedicated to help on electronics topics.
+ - [Electronics StackExchange](https://electronics.stackexchange.com) - Question and answer site for electronics running on the popular StackOverflow service.
+ - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners) - Good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
 
 
 ## Podcasts
- - [The Amp Hour](http://www.theamphour.com/) - An off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
+ - [The Amp Hour](http://www.theamphour.com/) - Off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
  - [Embedded FM](http://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests
  - [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
 
 
 ## Videos
 - [EEVblog](https://www.youtube.com/user/EEVblog) - One of the earliest and most successful YouTube channels where Dave Jones does Teardowns, tutorials and more. 
-- [ElectroBOOM](https://www.youtube.com/user/msadaghd) - A YouTube channel that debunks and explains EE topics with a lot of comedy thrown in.
+- [ElectroBOOM](https://www.youtube.com/user/msadaghd) - YouTube channel that debunks and explains EE topics with a lot of comedy thrown in.
 - [Micah Scott](https://www.youtube.com/user/micahjd) - Video logs of reverse engineering and re-purposing consumer electronics hardware in creative ways.
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) - Tutorials on electronics projects, often suitable for beginners as well.
 - [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) - Very in depth teardowns, repairs and reviews of lab equipment and prototyping products.
