@@ -1,5 +1,8 @@
 {
   "name": "awesome-electronics",
+  "scripts": {
+    "toc": "markdown-toc README.md -i"
+  },
   "dependencies": {
     "markdown-toc": "^1.1.0"
   }

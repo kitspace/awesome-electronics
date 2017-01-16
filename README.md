@@ -14,6 +14,9 @@
   * [Online](#online)
   * [Installable](#installable)
 - [Free EDA Packages](#free-eda-packages)
+- [CAD Specific](#cad-specific)
+  * [KiCAD](#kicad)
+  * [Eagle](#eagle)
 - [Forums](#forums)
   * [Discussion](#discussion)
   * [Help](#help)
@@ -53,6 +56,15 @@
 - [Design Spark PCB](http://www.rs-online.com/designspark/electronics/eng/page/designspark-pcb-home-page) - Gratis EDA package without restrictions, sponserd by RS Components.
 - [Altium Circuit Maker](http://circuitmaker.com/) - Free package from the maker of the go to pro software.
 - [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only
+
+
+## CAD Specific 
+
+### KiCAD
+- [Xesscorp's list of KiCAD 3rd part tools](https://github.com/xesscorp/kicad-3rd-party-tools)
+
+### Eagle
+- [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 
 
 ## Forums
