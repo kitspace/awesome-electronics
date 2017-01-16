@@ -24,6 +24,7 @@
   * [Help](#help)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
+- [Tutorials](#tutorials)
 
 <!-- tocstop -->
 
@@ -105,3 +106,7 @@
 - [Micah Scott](https://www.youtube.com/user/micahjd) - Video logs of reverse engineering and re-purposing consumer electronics hardware in creative ways.
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) - Tutorials on electronics projects, often suitable for beginners as well.
 - [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) - Very in depth teardowns, repairs and reviews of lab equipment and prototyping products.
+
+
+## Tutorials
+- [All About Circuits](http://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
