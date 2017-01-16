@@ -79,6 +79,7 @@
 
 ## Blogs
 - [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking.
+- [bunniestudios.com](https://www.bunniestudios.com) - Andrew 'Bunnie' Huang covers hardware hacking, open hardware, manufacturing and more.
 
 ## Forums
 
