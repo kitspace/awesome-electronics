@@ -1,0 +1,6 @@
+{
+  "name": "awesome-electronics",
+  "dependencies": {
+    "markdown-toc": "^1.1.0"
+  }
+}

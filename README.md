@@ -4,6 +4,22 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
+## Table of Contents
+<!-- toc -->
+
+- [Simulators](#simulators)
+- [Part Search Engines](#part-search-engines)
+- [Gerber Viewers](#gerber-viewers)
+  * [Online](#online)
+  * [Installable](#installable)
+- [Free EDA Packages](#free-eda-packages)
+- [Podcasts](#podcasts)
+- [Forums](#forums)
+  * [Discussion](#discussion)
+  * [Help](#help)
+
+<!-- tocstop -->
+
 ## Simulators
 - [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator
 - [LTSpice](http://www.linear.com/designtools/software/#LTspice) - The industry standard free SPICE circuit simulator from Linear Technologies
