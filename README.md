@@ -14,10 +14,10 @@
   * [Online](#online)
   * [Installable](#installable)
 - [Free EDA Packages](#free-eda-packages)
-- [Podcasts](#podcasts)
 - [Forums](#forums)
   * [Discussion](#discussion)
   * [Help](#help)
+- [Podcasts](#podcasts)
 - [Video Shows and Tutorials](#video-shows-and-tutorials)
 
 <!-- tocstop -->
@@ -54,11 +54,6 @@
 - [Altium Circuit Maker](http://circuitmaker.com/) - Free package from the maker of the go to pro software.
 - [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only
 
-## Podcasts
- - [The Amp Hour](http://www.theamphour.com/) - An off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
- - [Embedded FM](http://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests
- - [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
-
 
 ## Forums
 
@@ -69,7 +64,14 @@
 ### Help
  - [/r/askelectronics](https://reddit.com/r/askelectronics) is a sub-reddit dedicated to help on electronics topics.
  - [Electronics StackExchange](https://electronics.stackexchange.com) is a question and answer site for electronics running on the popular StackOverflow service.
- - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners) is a good place for beginner questions, other sub-forums on EEVblog should be suitable for more advanced topics.
+ - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners) is a good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
+
+
+## Podcasts
+ - [The Amp Hour](http://www.theamphour.com/) - An off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
+ - [Embedded FM](http://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests
+ - [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
+
 
 ## Video Shows and Tutorials
 
