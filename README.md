@@ -44,8 +44,8 @@
 ### Online
 - [Tracespace Viewer](http://viewer.tracespace.io) -  Gerber viewer that lets you inspect the individual layers as well as the board preview.
 - [Gerblook](http://gerblook.org/) - Online Gerber viewer powered by Gerbv.
-- [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) - An online 3d Gerber viewer.
-- [EasyEDA Gerber Viewer](https://gerber-viewer.easyeda.com/) - Viewer and design for manufacture test.
+- [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) - 3D Gerber viewer.
+- [EasyEDA Gerber Viewer](https://gerber-viewer.easyeda.com/) - Gerber viewer and design for manufacture test.
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
@@ -100,7 +100,7 @@
 
 
 ## Videos
-- [EEVblog](https://www.youtube.com/user/EEVblog) - One of the earliest and most successful YouTube channels where Dave Jones does Teardowns, tutorials and more. 
+- [EEVblog](https://www.youtube.com/user/EEVblog) - One of the earliest and most successful YouTube channels where Dave Jones does teardowns, tutorials and more. 
 - [ElectroBOOM](https://www.youtube.com/user/msadaghd) - YouTube channel that debunks and explains EE topics with a lot of comedy thrown in.
 - [Micah Scott](https://www.youtube.com/user/micahjd) - Video logs of reverse engineering and re-purposing consumer electronics hardware in creative ways.
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) - Tutorials on electronics projects, often suitable for beginners as well.
