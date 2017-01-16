@@ -18,6 +18,7 @@
 - [Forums](#forums)
   * [Discussion](#discussion)
   * [Help](#help)
+- [Video Shows and Tutorials](#video-shows-and-tutorials)
 
 <!-- tocstop -->
 
@@ -69,3 +70,11 @@
  - [/r/askelectronics](https://reddit.com/r/askelectronics) is a sub-reddit dedicated to help on electronics topics.
  - [Electronics StackExchange](https://electronics.stackexchange.com) is a question and answer site for electronics running on the popular StackOverflow service.
  - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners) is a good place for beginner questions, other sub-forums on EEVblog should be suitable for more advanced topics.
+
+## Video Shows and Tutorials
+
+- [EEVblog](https://www.youtube.com/user/EEVblog) is one of the earliest and most successful YouTube channels where Dave Jones does Teardowns, tutorials and more. 
+- [ElectroBOOM](https://www.youtube.com/user/msadaghd) is a YouTube channel that debunks and explains EE topics with a lot of comedy thrown in.
+- [Micah Scott](https://www.youtube.com/user/micahjd) makes video logs of reverse engineering and re-purposing consumer electronics hardware in creative ways.
+- [Afrotechmods](https://www.youtube.com/user/afrotechmods) makes tutorials on electronics projects, often suitable for beginners as well.
+- [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) does very in depth teardowns, repairs and reviews of lab equipment and prototyping products.
