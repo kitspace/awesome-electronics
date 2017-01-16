@@ -26,15 +26,15 @@
 <!-- tocstop -->
 
 ## Simulators
-- [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator
-- [LTSpice](http://www.linear.com/designtools/software/#LTspice) - The industry standard free SPICE circuit simulator from Linear Technologies
+- [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
+- [LTSpice](http://www.linear.com/designtools/software/#LTspice) - The industry standard free SPICE circuit simulator from Linear Technologies.
 
 
 ## Part Search Engines
 
-- [Octopart](https://octopart.com) - Probably the most well known part search engine
-- [Findchips](https://findchips.com) - Part search from Supply Frame
-- [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts
+- [Octopart](https://octopart.com) - Probably the most well known part search engine.
+- [Findchips](https://findchips.com) - Part search from Supply Frame.
+- [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
 
 
 ## Gerber Viewers
@@ -51,9 +51,9 @@
 
 
 ## Miscellaneous Web Services
-- [Eyrie.io](https://eyrie.io) for viewing Eagle and KiCAD designs online
-- [Hackaday.io](https://hackaday.io) a social site for sharing projects from the popular blog.
-- [Kitnic.it](https://kitnic.it) project sharing site that lets you easily buy the parts from yours truly.
+- [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
+- [Hackaday.io](https://hackaday.io) - A social site for sharing projects from the popular blog.
+- [Kitnic.it](https://kitnic.it)  - Project sharing site that lets you easily buy the parts from yours truly.
 
 
 ## Free EDA Packages
@@ -61,7 +61,7 @@
 - [Eagle](https://cadsoft.io/) - One of the most popular EDA packages due to it's (board size restricted) free version.
 - [Design Spark PCB](http://www.rs-online.com/designspark/electronics/eng/page/designspark-pcb-home-page) - Gratis EDA package without restrictions, sponserd by RS Components.
 - [Altium Circuit Maker](http://circuitmaker.com/) - Free package from the maker of the go to pro software.
-- [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only
+- [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
 
 
 ## CAD Specific 
@@ -78,13 +78,13 @@
 ## Forums
 
 ### Discussion
-- [EEVBlog forum](https://www.eevblog.com/forum) probably the largest and most active forum to discuss electronic engineering topics.
+- [EEVBlog forum](https://www.eevblog.com/forum) - Probably the largest and most active forum to discuss electronic engineering topics.
 - [/r/electronics](https://reddit.com/r/electronics) and [/r/ECE](https://reddit.com/r/ECE) are the two most active sub-reddits for EE topics.
 
 ### Help
- - [/r/askelectronics](https://reddit.com/r/askelectronics) is a sub-reddit dedicated to help on electronics topics.
- - [Electronics StackExchange](https://electronics.stackexchange.com) is a question and answer site for electronics running on the popular StackOverflow service.
- - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners) is a good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
+ - [/r/askelectronics](https://reddit.com/r/askelectronics) - A sub-reddit dedicated to help on electronics topics.
+ - [Electronics StackExchange](https://electronics.stackexchange.com) - A question and answer site for electronics running on the popular StackOverflow service.
+ - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners) - A good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
 
 
 ## Podcasts
@@ -94,8 +94,8 @@
 
 
 ## Video Shows and Tutorials
-- [EEVblog](https://www.youtube.com/user/EEVblog) is one of the earliest and most successful YouTube channels where Dave Jones does Teardowns, tutorials and more. 
-- [ElectroBOOM](https://www.youtube.com/user/msadaghd) is a YouTube channel that debunks and explains EE topics with a lot of comedy thrown in.
-- [Micah Scott](https://www.youtube.com/user/micahjd) makes video logs of reverse engineering and re-purposing consumer electronics hardware in creative ways.
-- [Afrotechmods](https://www.youtube.com/user/afrotechmods) makes tutorials on electronics projects, often suitable for beginners as well.
-- [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) does very in depth teardowns, repairs and reviews of lab equipment and prototyping products.
+- [EEVblog](https://www.youtube.com/user/EEVblog) - One of the earliest and most successful YouTube channels where Dave Jones does Teardowns, tutorials and more. 
+- [ElectroBOOM](https://www.youtube.com/user/msadaghd) - A YouTube channel that debunks and explains EE topics with a lot of comedy thrown in.
+- [Micah Scott](https://www.youtube.com/user/micahjd) - Video logs of reverse engineering and re-purposing consumer electronics hardware in creative ways.
+- [Afrotechmods](https://www.youtube.com/user/afrotechmods) - Tutorials on electronics projects, often suitable for beginners as well.
+- [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) - Very in depth teardowns, repairs and reviews of lab equipment and prototyping products.
