@@ -58,7 +58,6 @@
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 - [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 
-
 ## Free EDA Packages
 - [KiCAD](http://kicad-pcb.org/) - Open source EDA package with push and shove router, differential pairs and much more.
 - [Eagle](https://cadsoft.io/) - One of the most popular EDA packages due to it's (board size restricted) free version.
@@ -73,6 +72,7 @@
 - [Xesscorp's list of KiCAD 3rd part tools](https://github.com/xesscorp/kicad-3rd-party-tools)
 - [Contextual Electronics' KiCAD 4.0 video tutorials](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - Comprehensive video tutorials for beginners.
 - [KiCAD.info forums](https://forum.kicad.info) - User discussion and help forum.
+- [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
