@@ -2,8 +2,6 @@
 
 > A curated list of awesome resources for electronic engineers and hobbyists
 
-*Inspired by the [awesome list thing](https://github.com/sindresorhus/awesome).*
-
 ## Contents
 
 <!-- toc -->
