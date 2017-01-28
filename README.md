@@ -95,7 +95,7 @@ This list is for websites, services, software, tools and more: everything that y
 ### Help
  - [/r/askelectronics](https://reddit.com/r/askelectronics) - Sub-reddit dedicated to help on electronics topics.
  - [Electronics Stack Exchange](https://electronics.stackexchange.com) - Question and answer site for electronics running on the popular Stack Overflow service.
- - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners) - Good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
+ - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners/) - Good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
 
 
 ## Podcasts
