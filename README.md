@@ -44,6 +44,10 @@ This list is for websites, services, software, tools and more: everything that y
 - [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
 
 
+## Part Libraries
+
+- [SnapEDA](https://snapeda.com) - Parts lirary with free symbols & footprints for Eagle, KiCad, Altium, OrCad, Allegro, etc.
+
 ## Gerber Viewers
 
 ### Online
