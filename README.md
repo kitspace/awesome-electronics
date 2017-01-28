@@ -95,7 +95,7 @@ This list is for websites, services, software, tools and more: everything that y
 ### Help
  - [/r/askelectronics](https://reddit.com/r/askelectronics) - Sub-reddit dedicated to help on electronics topics.
  - [Electronics Stack Exchange](https://electronics.stackexchange.com) - Question and answer site for electronics running on the popular Stack Overflow service.
- - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners) - Good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
+ - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners/) - Good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
 
 
 ## Podcasts
@@ -110,6 +110,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Micah Scott](https://www.youtube.com/user/micahjd) - Video logs of reverse engineering and re-purposing consumer electronics hardware in creative ways.
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) - Tutorials on electronics projects, often suitable for beginners as well.
 - [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) - Very in depth teardowns, repairs and reviews of lab equipment and prototyping products.
+- [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) - Excellent tutorials about basic and complex analog hardware.
 - [Mr. Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab) - Teardowns, repairs and restorations with an emphasis on classic electronics gear. 
 
 
