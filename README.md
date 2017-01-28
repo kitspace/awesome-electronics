@@ -111,7 +111,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) - Tutorials on electronics projects, often suitable for beginners as well.
 - [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) - Very in depth teardowns, repairs and reviews of lab equipment and prototyping products.
 - [Mr. Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab) - Teardowns, repairs and restorations with an emphasis on classic electronics gear. 
-- [Louis Rossman](https://www.youtube.com/user/rossmanngroup) - Video of microsoldering repairs of Macbooks logic boards live-streamed from a storefront shop in Manhattan. Knowlegable, opinionated, potty-mouthed (NSFW). 
+
 
 
 
