@@ -113,7 +113,5 @@ This list is for websites, services, software, tools and more: everything that y
 - [Mr. Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab) - Teardowns, repairs and restorations with an emphasis on classic electronics gear. 
 
 
-
-
 ## Tutorials
 - [All About Circuits](http://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
