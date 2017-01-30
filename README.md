@@ -56,6 +56,7 @@ This list is for websites, services, software, tools and more: everything that y
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
 - [KiCAD Gerbview](http://kicad-pcb.org/) - The KiCAD gerber viewer.
+- [GC-Prevue](http://www.graphicode.com/GC-Prevue_Gerber_Viewer) - Commercial with free version. Can handle some gerbers better than Gerbv and KiCAD.
 
 
 ## Miscellaneous Web Services
