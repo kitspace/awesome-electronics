@@ -86,10 +86,9 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 
 
 ## PCB Batching Services
-- [PCB Shopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services
+- [PCB Shopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services.
 - [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
 - [Dirty PCBs](http://dirtypcbs.com) - Low cost PCB batching service that prides itself on its "dirty" quality
-
 
 ## Blogs
 - [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking.
@@ -109,7 +108,7 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 
 ## Podcasts
  - [The Amp Hour](http://www.theamphour.com/) - Off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
- - [Embedded FM](http://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests
+ - [Embedded FM](http://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests.
  - [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
 
 
@@ -125,3 +124,5 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 
 ## Tutorials
 - [All About Circuits](http://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
+- [Soldering is Easy](http://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) - Comic book that goes over the basics of soldering that has been translated into quite a few languages.
+- [Uses of Different Soldering Iron Tips](http://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/?ALLSTEPS) - Covers what all those different soldering iron tips are good for.
