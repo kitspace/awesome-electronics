@@ -8,7 +8,7 @@ Experimenting with and building electronic circuits is also a popular hobby and 
 
 This list is for websites, services, software, tools and more: everything that you think is awesome in the world of electronic engineering. If you have anything to add please follow the instructions in [contributing.md](contributing.md).
 
-Also check out the [PCB EDA software list post on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/)! It's been up for a while longer and is much more comprehensive in some sections.
+Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbeda-software-list/) on the EEVblog forums. Its been up for a while longer and is much more comprehensive for some sections.
 
 ## Contents
 
@@ -87,7 +87,7 @@ Also check out the [PCB EDA software list post on the EEVblog forums](http://www
 
 ## PCB Batching Services
 - [PCB Shopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services
-- [Osh Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
+- [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
 - [Dirty PCBs](http://dirtypcbs.com) - Low cost PCB batching service that prides itself on its "dirty" quality
 
 
