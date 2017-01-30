@@ -43,11 +43,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Findchips](https://findchips.com) - Part search from Supply Frame.
 - [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
 
-
-## Part Libraries
-
-- [SnapEDA](https://snapeda.com) - Parts lirary with free symbols & footprints for Eagle, KiCad, Altium, OrCad, Allegro, etc.
-
 ## Gerber Viewers
 
 ### Online
@@ -63,6 +58,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Miscellaneous Web Services
 - [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
+- [SnapEDA.com](https://snapeda.com) - Parts lirary with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 - [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 
