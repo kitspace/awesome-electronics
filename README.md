@@ -61,7 +61,7 @@ Also check out the [PCB EDA software list post on the EEVblog forums](http://www
 
 ## Miscellaneous Web Services
 - [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
-- [SnapEDA.com](https://snapeda.com) - Parts lirary with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
+- [SnapEDA.com](https://snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCAD, Altium, OrCad, Allegro, etc.)
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 - [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 
