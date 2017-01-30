@@ -83,10 +83,10 @@ This list is for websites, services, software, tools and more: everything that y
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 
 
-## PCB batching services
-- [PcbShopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services
-- [OshPark](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
-- [DirtyPcbs](http://dirtypcbs.com) - Low cost PCB batching service that prides itself on it's "dirty" quality
+## PCB Batching Services
+- [PCB Shopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services
+- [Osh Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
+- [Dirty PCBs](http://dirtypcbs.com) - Low cost PCB batching service that prides itself on its "dirty" quality
 
 
 ## Blogs
