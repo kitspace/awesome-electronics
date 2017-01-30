@@ -64,6 +64,7 @@ Also check out the [PCB EDA software list post on the EEVblog forums](http://www
 - [SnapEDA.com](https://snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCAD, Altium, OrCad, Allegro, etc.)
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 - [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
+- [Tindie](https://www.tindie.com/browse/diy-electronics/) - A marketplace for makers that includes a category for DIY Electronics.
 
 ## Free EDA Packages
 - [KiCAD](http://kicad-pcb.org/) - Open source EDA package with push and shove router, differential pairs and much more.
