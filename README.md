@@ -22,6 +22,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [CAD Specific](#cad-specific)
   * [KiCAD](#kicad)
   * [Eagle](#eagle)
+- [PCB batching services](#pcb-batching-services)
 - [Blogs](#blogs)
 - [Forums](#forums)
   * [Discussion](#discussion)
@@ -80,6 +81,12 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
+
+
+## PCB batching services
+- [PcbShopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services
+- [OshPark](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
+- [DirtyPcbs](http://dirtypcbs.com) - Low cost PCB batching service that prides itself on it's "dirty" quality
 
 
 ## Blogs
