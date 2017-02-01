@@ -123,6 +123,7 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) - Excellent tutorials about basic and complex analog hardware.
 - [Mr. Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab) - Teardowns, repairs and restorations with an emphasis on classic electronics gear.
 - [GreatScott](https://www.youtube.com/user/greatscottlab) - Electronics tutorials, projects and how to's.
+- [MikesElectricStuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - Teardowns, large lighting projects, xrays and more.
 
 ## Tutorials
 - [All About Circuits](http://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
