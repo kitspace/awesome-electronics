@@ -37,8 +37,10 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 <!-- tocstop -->
 
 ## Simulators
-- [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
 - [LTSpice](http://www.linear.com/designtools/software/#LTspice) - The industry standard free SPICE circuit simulator from Linear Technologies.
+- [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
+- [Circuit JS](http://www.falstad.com/circuit/circuitjs.html) - Open source online simulator for simpler circuits with live interactivity and visualization.
+- [Every Circuit](http://everycircuit.com) - Free to try online visual, interactive circuit simulator for simpler circuits.
 
 
 ## Part Search Engines
