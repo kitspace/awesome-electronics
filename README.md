@@ -112,6 +112,7 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
  - [The Amp Hour](http://www.theamphour.com/) - Off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
  - [Embedded FM](http://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests.
  - [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
+ - [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - Weekly podcast where Parker and Stephen from MacroFab discuss EE topics and industry news
 
 
 ## Videos
@@ -124,6 +125,7 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [Mr. Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab) - Teardowns, repairs and restorations with an emphasis on classic electronics gear.
 - [GreatScott](https://www.youtube.com/user/greatscottlab) - Electronics tutorials, projects and how to's.
 - [Julian Ilett](https://www.youtube.com/user/julius256) - Buys cheapest electronic modules he can find and tries to do useful things with them.
+- [MikesElectricStuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - Teardowns, large lighting projects, xrays and more.
 
 ## Tutorials
 - [All About Circuits](http://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
