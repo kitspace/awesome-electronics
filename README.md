@@ -19,14 +19,14 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [Gerber Viewers](#gerber-viewers)
   * [Online](#online)
   * [Installable](#installable)
-- [Miscellaneous Web Services](#miscellaneous-web-services)
-- [Project Sharing Platforms](#project-sharing-platforms)
 - [Free EDA Packages](#free-eda-packages)
 - [CAD Specific](#cad-specific)
   * [KiCAD](#kicad)
   * [Eagle](#eagle)
 - [PCB Batching Services](#pcb-batching-services)
+- [Project Sharing Platforms](#project-sharing-platforms)
 - [Inventory Management](#inventory-management)
+- [Miscellaneous Web Services](#miscellaneous-web-services)
 - [Blogs](#blogs)
 - [Forums](#forums)
   * [Discussion](#discussion)
@@ -62,16 +62,6 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
 - [KiCAD Gerbview](http://kicad-pcb.org/) - The KiCAD gerber viewer.
 
-
-## Miscellaneous Web Services
-- [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
-- [SnapEDA.com](https://snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCAD, Altium, OrCad, Allegro, etc.)
-
-## Project Sharing Platforms
-- [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
-- [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
-- [AISLER.net](https://aisler.net) - Search engine for open source electronics published on GitHub. Indexed by parts, description and Readme context
-
 ## Free EDA Packages
 - [KiCAD](http://kicad-pcb.org/) - Open source EDA package with push and shove router, differential pairs and much more.
 - [Eagle](https://cadsoft.io/) - One of the most popular EDA packages due to it's (board size restricted) free version.
@@ -99,14 +89,22 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [AISLER Go](https://go.aisler.net) - Affordable series-quality circuit boards made in and shipped from Europe (Germany)
 - [Dirty PCBs](http://dirtypcbs.com) - Low cost PCB batching service that prides itself on its "dirty" quality
 
+## Project Sharing Platforms
+- [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
+- [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
+- [AISLER.net](https://aisler.net) - Search engine for open source electronics published on GitHub. Indexed by parts, description and Readme context
+
 ## Inventory Management
 - [Partsbox.io](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
 - [Partkeepr](https://partkeepr.org) - Open source web service to manage your part inventory.
 
+## Miscellaneous Web Services
+- [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
+- [SnapEDA.com](https://snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCAD, Altium, OrCad, Allegro, etc.)
+
 ## Blogs
 - [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking.
 - [bunniestudios.com](https://www.bunniestudios.com) - Andrew 'Bunnie' Huang covers hardware hacking, open hardware, manufacturing and more.
-
 
 ## Forums
 
