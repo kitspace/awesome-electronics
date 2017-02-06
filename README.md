@@ -20,6 +20,7 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
   * [Online](#online)
   * [Installable](#installable)
 - [Miscellaneous Web Services](#miscellaneous-web-services)
+- [Project Sharing Platforms](#project-sharing-platforms)
 - [Free EDA Packages](#free-eda-packages)
 - [CAD Specific](#cad-specific)
   * [KiCAD](#kicad)
@@ -65,9 +66,11 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 ## Miscellaneous Web Services
 - [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
 - [SnapEDA.com](https://snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCAD, Altium, OrCad, Allegro, etc.)
+
+## Project Sharing Platforms
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 - [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
-- [AISLER.net](https://aisler.net) - Search engine for open source electronics published on github. Indexed by parts, description and Readme context
+- [AISLER.net](https://aisler.net) - Search engine for open source electronics published on GitHub. Indexed by parts, description and Readme context
 
 ## Free EDA Packages
 - [KiCAD](http://kicad-pcb.org/) - Open source EDA package with push and shove router, differential pairs and much more.
