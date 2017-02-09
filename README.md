@@ -87,13 +87,13 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 ## PCB Batching Services
 - [PCB Shopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services.
 - [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
-- [AISLER Go](https://go.aisler.net) - Affordable series-quality circuit boards made in and shipped from Europe (Germany)
+- [Aisler Go](https://go.aisler.net) - Affordable series-quality circuit boards made in and shipped from Europe (Germany)
 - [Dirty PCBs](http://dirtypcbs.com) - Low cost PCB batching service that prides itself on its "dirty" quality
 
 ## Project Sharing Platforms
 - [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
-- [AISLER.net](https://aisler.net) - Search engine for open source electronics published on GitHub. Indexed by parts, description and Readme context
+- [Aisler.net](https://aisler.net) - Search engine for open source electronics published on GitHub. Indexed by parts, description and Readme context
 
 ## Inventory Management
 - [Partsbox.io](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
