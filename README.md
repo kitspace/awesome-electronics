@@ -27,6 +27,7 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [Project Sharing Platforms](#project-sharing-platforms)
 - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
 - [Miscellaneous Web Services](#miscellaneous-web-services)
+- [Development Board Retailers](#development-board-retailers)
 - [Blogs](#blogs)
 - [Forums](#forums)
   * [Discussion](#discussion)
@@ -55,14 +56,6 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
 - [KiCAD Gerbview](http://kicad-pcb.org/) - The KiCAD gerber viewer.
-
-
-## Miscellaneous Web Services
-- [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
-- [SnapEDA.com](https://snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCAD, Altium, OrCad, Allegro, etc.)
-- [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
-- [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
-- [Tindie](https://www.tindie.com/browse/diy-electronics/) - A marketplace for makers that includes a category for DIY Electronics.
 
 
 ## Free EDA Packages
@@ -112,6 +105,11 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 ## Miscellaneous Web Services
 - [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
 - [SnapEDA.com](https://snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCAD, Altium, OrCad, Allegro, etc.)
+
+## Development Board Retailers
+- [Sparkfun](https://sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
+- [Adafruit](https://www.adafruit.com/) - Another retailer and designer with excellent selection and tutorials. 
+- [Tindie](https://www.tindie.com) - Marketplace for electronics makers to sell low volume batches of their own designs.
 
 ## Blogs
 - [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking.
