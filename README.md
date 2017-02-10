@@ -25,7 +25,7 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [PCB Batching Services](#pcb-batching-services)
 - [Part Search Engines](#part-search-engines)
 - [Project Sharing Platforms](#project-sharing-platforms)
-- [Inventory Management](#inventory-management)
+- [Inventory Management and Purchasing](#inventory-management-and-purchasing)
 - [Miscellaneous Web Services](#miscellaneous-web-services)
 - [Blogs](#blogs)
 - [Forums](#forums)
@@ -81,6 +81,7 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [KiCAD.info forums](https://forum.kicad.info) - User discussion and help forum.
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 - [KiCAD Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
+- [KiCAD Footprint Collection](https://github.com/monostable/kicad_footprints) - Collection of all the KiCAD footprints available online and some scripts to manage them.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
@@ -103,7 +104,8 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 - [Aisler.net](https://aisler.net) - Search engine for open source electronics published on GitHub.
 
-## Inventory Management
+## Inventory Management and Purchasing
+- [1-click BOM](https://1clickBOM.com) - Browser extensions that automates purchasing and part searching. 
 - [Partsbox.io](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
 - [Partkeepr](https://partkeepr.org) - Open source web service to manage your part inventory.
 
