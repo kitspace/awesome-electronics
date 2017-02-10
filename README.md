@@ -15,7 +15,6 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 <!-- toc -->
 
 - [Simulators](#simulators)
-- [Part Search Engines](#part-search-engines)
 - [Gerber Viewers](#gerber-viewers)
   * [Online](#online)
   * [Installable](#installable)
@@ -24,6 +23,7 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
   * [KiCAD](#kicad)
   * [Eagle](#eagle)
 - [PCB Batching Services](#pcb-batching-services)
+- [Part Search Engines](#part-search-engines)
 - [Project Sharing Platforms](#project-sharing-platforms)
 - [Inventory Management](#inventory-management)
 - [Miscellaneous Web Services](#miscellaneous-web-services)
@@ -43,12 +43,6 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [Circuit JS](http://www.falstad.com/circuit/circuitjs.html) - Open source online simulator for simpler circuits with live interactivity and visualization.
 - [Every Circuit](http://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
 
-
-## Part Search Engines
-
-- [Octopart](https://octopart.com) - Probably the most well known part search engine.
-- [Findchips](https://findchips.com) - Part search from Supply Frame.
-- [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
 
 ## Gerber Viewers
 
@@ -98,6 +92,11 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
 - [Aisler Go](https://go.aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 - [Dirty PCBs](http://dirtypcbs.com) - Low cost PCB batching service that prides itself on its "dirty" quality.
+
+## Part Search Engines
+- [Octopart](https://octopart.com) - Probably the most well known part search engine.
+- [Findchips](https://findchips.com) - Part search from Supply Frame.
+- [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
 
 ## Project Sharing Platforms
 - [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
