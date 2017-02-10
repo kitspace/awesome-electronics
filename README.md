@@ -62,6 +62,15 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
 - [KiCAD Gerbview](http://kicad-pcb.org/) - The KiCAD gerber viewer.
 
+
+## Miscellaneous Web Services
+- [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
+- [SnapEDA.com](https://snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCAD, Altium, OrCad, Allegro, etc.)
+- [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
+- [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
+- [Tindie](https://www.tindie.com/browse/diy-electronics/) - A marketplace for makers that includes a category for DIY Electronics.
+
+
 ## Free EDA Packages
 - [KiCAD](http://kicad-pcb.org/) - Open source EDA package with push and shove router, differential pairs and much more.
 - [Eagle](https://cadsoft.io/) - One of the most popular EDA packages due to it's (board size restricted) free version.
