@@ -8,7 +8,7 @@ Experimenting with and building electronic circuits is also a popular hobby and 
 
 This list is for websites, services, software, tools and more: everything that you think is awesome in the world of electronic engineering. If you have anything to add please follow the instructions in [contributing.md](contributing.md).
 
-Also check out the [PCB EDA software list post on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/)! It's been up for a while longer and is much more comprehensive in some sections.
+Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbeda-software-list/) on the EEVblog forums. It's been up for a while longer and is much more comprehensive for some sections.
 
 ## Contents
 
@@ -19,12 +19,14 @@ Also check out the [PCB EDA software list post on the EEVblog forums](http://www
 - [Gerber Viewers](#gerber-viewers)
   * [Online](#online)
   * [Installable](#installable)
-- [Miscellaneous Web Services](#miscellaneous-web-services)
 - [Free EDA Packages](#free-eda-packages)
 - [CAD Specific](#cad-specific)
   * [KiCAD](#kicad)
   * [Eagle](#eagle)
-- [PCB batching services](#pcb-batching-services)
+- [PCB Batching Services](#pcb-batching-services)
+- [Project Sharing Platforms](#project-sharing-platforms)
+- [Inventory Management](#inventory-management)
+- [Miscellaneous Web Services](#miscellaneous-web-services)
 - [Blogs](#blogs)
 - [Forums](#forums)
   * [Discussion](#discussion)
@@ -36,8 +38,10 @@ Also check out the [PCB EDA software list post on the EEVblog forums](http://www
 <!-- tocstop -->
 
 ## Simulators
-- [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
 - [LTSpice](http://www.linear.com/designtools/software/#LTspice) - The industry standard free SPICE circuit simulator from Linear Technologies.
+- [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
+- [Circuit JS](http://www.falstad.com/circuit/circuitjs.html) - Open source online simulator for simpler circuits with live interactivity and visualization.
+- [Every Circuit](http://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
 
 
 ## Part Search Engines
@@ -66,6 +70,7 @@ Also check out the [PCB EDA software list post on the EEVblog forums](http://www
 - [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 - [Tindie](https://www.tindie.com/browse/diy-electronics/) - A marketplace for makers that includes a category for DIY Electronics.
 
+
 ## Free EDA Packages
 - [KiCAD](http://kicad-pcb.org/) - Open source EDA package with push and shove router, differential pairs and much more.
 - [Eagle](https://cadsoft.io/) - One of the most popular EDA packages due to it's (board size restricted) free version.
@@ -81,16 +86,31 @@ Also check out the [PCB EDA software list post on the EEVblog forums](http://www
 - [Contextual Electronics' KiCAD 4.0 video tutorials](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - Comprehensive video tutorials for beginners.
 - [KiCAD.info forums](https://forum.kicad.info) - User discussion and help forum.
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+- [KiCAD Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
-
+- [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
+- [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
 ## PCB Batching Services
-- [PCB Shopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services
-- [Osh Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
-- [Dirty PCBs](http://dirtypcbs.com) - Low cost PCB batching service that prides itself on its "dirty" quality
+- [PCB Shopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services.
+- [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
+- [Aisler Go](https://go.aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
+- [Dirty PCBs](http://dirtypcbs.com) - Low cost PCB batching service that prides itself on its "dirty" quality.
 
+## Project Sharing Platforms
+- [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
+- [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
+- [Aisler.net](https://aisler.net) - Search engine for open source electronics published on GitHub.
+
+## Inventory Management
+- [Partsbox.io](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
+- [Partkeepr](https://partkeepr.org) - Open source web service to manage your part inventory.
+
+## Miscellaneous Web Services
+- [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
+- [SnapEDA.com](https://snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCAD, Altium, OrCad, Allegro, etc.)
 
 ## Blogs
 - [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking.
@@ -110,8 +130,9 @@ Also check out the [PCB EDA software list post on the EEVblog forums](http://www
 
 ## Podcasts
  - [The Amp Hour](http://www.theamphour.com/) - Off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
- - [Embedded FM](http://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests
+ - [Embedded FM](http://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests.
  - [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
+ - [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - Weekly podcast where Parker and Stephen from MacroFab discuss EE topics and industry news
 
 
 ## Videos
@@ -121,8 +142,12 @@ Also check out the [PCB EDA software list post on the EEVblog forums](http://www
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) - Tutorials on electronics projects, often suitable for beginners as well.
 - [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) - Very in depth teardowns, repairs and reviews of lab equipment and prototyping products.
 - [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) - Excellent tutorials about basic and complex analog hardware.
-- [Mr. Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab) - Teardowns, repairs and restorations with an emphasis on classic electronics gear. 
-
+- [Mr. Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab) - Teardowns, repairs and restorations with an emphasis on classic electronics gear.
+- [GreatScott](https://www.youtube.com/user/greatscottlab) - Electronics tutorials, projects and how to's.
+- [Julian Ilett](https://www.youtube.com/user/julius256) - Buys cheapest electronic modules he can find and tries to do useful things with them.
+- [MikesElectricStuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - Teardowns, large lighting projects, xrays and more.
 
 ## Tutorials
 - [All About Circuits](http://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
+- [Soldering is Easy](http://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) - Comic book that goes over the basics of soldering that has been translated into quite a few languages.
+- [Uses of Different Soldering Iron Tips](http://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/?ALLSTEPS) - Covers what all those different soldering iron tips are good for.
