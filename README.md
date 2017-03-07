@@ -145,6 +145,7 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [GreatScott](https://www.youtube.com/user/greatscottlab) - Electronics tutorials, projects and how to's.
 - [Julian Ilett](https://www.youtube.com/user/julius256) - Buys cheapest electronic modules he can find and tries to do useful things with them.
 - [MikesElectricStuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - Teardowns, large lighting projects, xrays and more.
+- [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) - Series of videos on building an 8-bit computer on breadboards with excellent explanations of all the sub-circuits.
 
 ## Tutorials
 - [All About Circuits](http://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
