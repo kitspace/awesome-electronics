@@ -52,6 +52,7 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [Gerblook](http://gerblook.org/) - Online Gerber viewer powered by Gerbv.
 - [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) - 3D Gerber viewer.
 - [EasyEDA Gerber Viewer](https://gerber-viewer.easyeda.com/) - Gerber viewer and design for manufacture test.
+- [CircuitPeople](http://circuitpeople.com/) - No frills 2D layer viewer for Gerbers, without the excessive processing.
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
