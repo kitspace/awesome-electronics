@@ -35,6 +35,9 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [Podcasts](#podcasts)
 - [Videos](#videos)
 - [Tutorials](#tutorials)
+- [Learning](#learning)
+  * [Technical Tutorials](#technical-tutorials)
+  * [Theory and Courses](#theory-and-courses)
 
 <!-- tocstop -->
 
@@ -148,7 +151,12 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 - [MikesElectricStuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - Teardowns, large lighting projects, xrays and more.
 - [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) - Series of videos on building an 8-bit computer on breadboards with excellent explanations of all the sub-circuits.
 
-## Tutorials
-- [All About Circuits](http://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
+## Learning
+
+### Technical Tutorials
 - [Soldering is Easy](http://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) - Comic book that goes over the basics of soldering that has been translated into quite a few languages.
 - [Uses of Different Soldering Iron Tips](http://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/?ALLSTEPS) - Covers what all those different soldering iron tips are good for.
+
+### Theory and Courses
+- [All About Circuits](http://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
+- [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
