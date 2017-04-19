@@ -126,7 +126,6 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 
 ### Help
  - [/r/askelectronics](https://reddit.com/r/askelectronics) - Sub-reddit dedicated to help on electronics topics.
- - [/r/electronics](https://www.reddit.com/r/electronics/) - Sub-reddit dedicated to news, articles and general discussions related to the field of electronic systems and circuits.
  - [Electronics Stack Exchange](https://electronics.stackexchange.com) - Question and answer site for electronics running on the popular Stack Overflow service.
  - [EEVBlog beginners forum](http://www.eevblog.com/forum/beginners/) - Good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
 
