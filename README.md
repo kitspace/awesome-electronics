@@ -8,8 +8,6 @@ Experimenting with and building electronic circuits is also a popular hobby and 
 
 This list is for websites, services, software, tools and more: everything that you think is awesome in the world of electronic engineering. If you have anything to add please follow the instructions in [contributing.md](contributing.md).
 
-Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbeda-software-list/) on the EEVblog forums. It's been up for a while longer and is much more comprehensive for some sections.
-
 ## Contents
 
 <!-- toc -->
@@ -34,10 +32,10 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
   * [Help](#help)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
-- [Tutorials](#tutorials)
 - [Learning](#learning)
   * [Technical Tutorials](#technical-tutorials)
   * [Theory and Courses](#theory-and-courses)
+- [Other Lists](#other-lists)
 
 <!-- tocstop -->
 
@@ -160,3 +158,8 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 ### Theory and Courses
 - [All About Circuits](http://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
 - [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
+
+## Other Lists
+
+- [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) 
+- [intaja/open-electronics](https://github.com/intajay/open-electronics)
