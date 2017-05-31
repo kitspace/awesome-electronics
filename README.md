@@ -163,5 +163,5 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Other Lists
 
-- [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) 
-- [intaja/open-electronics](https://github.com/intajay/open-electronics)
+- [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available. 
+- [intaja/open-electronics](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers
