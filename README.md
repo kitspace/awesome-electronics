@@ -12,7 +12,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 <!-- toc -->
 
-- [Simulators](#simulators)
+- [Simulators & Tools Suite](#simulators)
 - [Gerber Viewers](#gerber-viewers)
   * [Online](#online)
   * [Installable](#installable)
@@ -40,10 +40,24 @@ This list is for websites, services, software, tools and more: everything that y
 <!-- tocstop -->
 
 ## Simulators
+Includes Simulators, development enviroments, tool suites. The major electronics manufacturer flavored tool suites include: Linear Technologies use of Spice3, TI's lite edition of the TINA circuit simulator, and Analog Devices lite version of SIMetrix/SIMPLIS.
 - [LTSpice](http://www.linear.com/designtools/software/#LTspice) - The industry standard free SPICE circuit simulator from Linear Technologies.
 - [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
 - [Circuit JS](http://www.falstad.com/circuit/circuitjs.html) - Open source online simulator for simpler circuits with live interactivity and visualization.
 - [Every Circuit](http://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
+- [Qucs Studio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) - Mixed Signal + Spice Simulator, for analog, digital (Verilog AMS) an electromagnetic simulation
+- [QUCS](http://qucs.sourceforge.net/) - Simlar to above, at one time were the same but both forked and diverged. This is also Linux and Mac compatible 
+- [Open Chip Design Software](http://opencircuitdesign.com/index.html) - Open Source chip design software which includes schematic editing, PCB and IC layout, autorouting, digital system simulation and much more. 
+- [TI Tina](http://www.ti.com/tool/tina-ti) - Based on the TINA tool suite, an alternative to LTSpice and other spice engine wrappers. 
+- [ADIsimPE aka SIMetrix lite edition](http://www.analog.com/en/design-center/interactive-design-tools/adisimpe.html) - Lite edition with manufacturer lock to Analog Devices version of the popular SIMetrix simulation engine. 
+- [CPPSim](http://www.cppsim.com/) - Similar to QUCSStudio another fully featured mixed signal circuit simulator. High quality schematic editor similar to the SUE schmeatic entry method (SUE2), and verilog/verilogAMS/typicalAnalog circuit support with GNU Octave and NGspice backend supports. Can simulate high end communication circuits, oversampling data converters and more high performance circuits.
+- [Verilator](https://www.veripool.org/wiki/verilator) - Timing based verilog to SystemC compiler. Highly optimized but with major limitations. First, it is timing based and not event based. Second, it can only work on a subset of verilog, Synthesizable Verilog. Otherwise very powerful and useful for practical on computer full system simulation, though not as comprehensive as an event based. 
+- [Icarus Verilog aka iVerilog](http://iverilog.icarus.com/) - fully featured interpreted event based verilog intepreter, for IEEE 1364-2005 verison of Verilog. 
+- [GNU Maxima](http://maxima.sourceforge.net/) - Fully featured CAS System similar to Mathematica and Maple. Very helpful for symbolic calculations and lighter learning curve than using SageMath/Sympy but more intuitive and fully featured than MuPad/Symoblic toolbox. 
+- [GNU Octave](https://www.gnu.org/software/octave/) - basically GNU Matlab. 
+- [Scilab and XCOS](http://www.scilab.org/) - Popular alternative to Matlab. Basically another powerful Numerical/Vector/Matrix calculator. Very useful for control systems as well through the XCos enviroment
+- [Anaconda Python](https://www.continuum.io/downloads) - Powerful python package enviroment that includes many Scikits (especially the allimportant ML libraries), Sympy/Numpy/Scipy, Various datascience toolboxes (Pandas) and more. All in one fully featured toolsuite.
+- [List of populare TCAD Simulators](https://www.tcad.com/Software.html)
 
 
 ## Gerber Viewers
@@ -66,6 +80,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Design Spark PCB](http://www.rs-online.com/designspark/electronics/eng/page/designspark-pcb-home-page) - Gratis EDA package without restrictions, sponserd by RS Components.
 - [Altium Circuit Maker](http://circuitmaker.com/) - Free package from the maker of the go to pro software.
 - [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
+- [NCSU FreePDK](https://www.eda.ncsu.edu/wiki/FreePDK) - Free PDK from NCSU providing access to 3D/FinFet, 45 and 15nm lithos. Based on models from ASU's Predicted Technology Models
 
 
 ## CAD Specific 
@@ -157,10 +172,20 @@ This list is for websites, services, software, tools and more: everything that y
 ### Technical Tutorials
 - [Soldering is Easy](http://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) - Comic book that goes over the basics of soldering that has been translated into quite a few languages.
 - [Uses of Different Soldering Iron Tips](http://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/?ALLSTEPS) - Covers what all those different soldering iron tips are good for.
+- [BSIM Site](http://bsim.berkeley.edu/). Details on BSIM Models, similar to the SPICE3 page. Gives indepth details to using BSIM4/3 Models. 
+- [Indepth Wiki for LTSpice](http://ltwiki.org/?title=Main_Page)
 
 ### Theory and Courses
 - [All About Circuits](http://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
 - [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
+- [EE123 Digital Signal Processing](https://inst.eecs.berkeley.edu/~ee123/sp16/)
+- [CS 150 Intro to Digital System Design](http://www-inst.eecs.berkeley.edu/~cs150/fa13/agenda/)
+- [EE247 ADC Design](https://inst.eecs.berkeley.edu/~ee247/fa10/index.html)
+- [Dr. Jacob Baker Course List](http://cmosedu.com/jbaker/courses/courses.htm) - Course list from Dr. Jacob Baker, includes courses on introduction to linear circuit modeling (DC Circuits/Circuits I), and intro to microelectronics. But more importantly covers intro to IC Physical Design, Analog IC Design (intro and advanced), Digital IC Layout and Design, Mixed Signal Circuit Design, Memory Circuit design, Power Electronics IC Design. 
+- [EE 122A UCSB Intro to VLSI Design](http://www.ece.ucsb.edu/courses/ECE122/122_F16Banerjee/)
+- [UT Austin's EE382M.7 VLSI I](http://www.cerc.utexas.edu/~jaa/vlsi/)
+- [Dr. M. McDermott's Courselist](http://users.ece.utexas.edu/~mcdermot/) Massive courselist on advanced embedded systems and VLSI topics. 
+- [Professor Valvano's Courselist](http://users.ece.utexas.edu/~valvano/) Massive and extremely comprehensive courselist for embedded systems, from intro to advanced concepts, with homework assignments, course videos, and sample code
 
 ## Other Lists
 
