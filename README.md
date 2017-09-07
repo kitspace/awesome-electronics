@@ -21,6 +21,7 @@ This list is for websites, services, software, tools and more: everything that y
   * [KiCAD](#kicad)
   * [Eagle](#eagle)
 - [PCB Batching Services](#pcb-batching-services)
+- [Stencil Manufacturers](#stencil-manufacturer)
 - [Part Search Engines](#part-search-engines)
 - [Project Sharing Platforms](#project-sharing-platforms)
 - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
@@ -87,8 +88,11 @@ This list is for websites, services, software, tools and more: everything that y
 ## PCB Batching Services
 - [PCB Shopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services.
 - [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
-- [Aisler Go](https://go.aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
+- [Aisler](https://.aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 - [Dirty PCBs](http://dirtypcbs.com) - Low cost PCB batching service that prides itself on its "dirty" quality.
+
+## Stencil Manufacturers
+- [Aisler](https://.aisler.net) - Get an affordable stencil right with your boards.
 
 ## Part Search Engines
 - [Octopart](https://octopart.com) - Probably the most well known part search engine.
