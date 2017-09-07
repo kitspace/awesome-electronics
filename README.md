@@ -21,7 +21,7 @@ This list is for websites, services, software, tools and more: everything that y
   * [KiCAD](#kicad)
   * [Eagle](#eagle)
 - [PCB Batching Services](#pcb-batching-services)
-- [Stencil Manufacturers](#stencil-manufacturer)
+- [Stencil Manufacturers](#stencil-manufacturers)
 - [Part Search Engines](#part-search-engines)
 - [Project Sharing Platforms](#project-sharing-platforms)
 - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
