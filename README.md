@@ -96,7 +96,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
 
 ## Project Sharing Platforms
-- [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
+- [Kitspace.org](https://kitspace.org) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 
 ## Inventory Management and Purchasing
