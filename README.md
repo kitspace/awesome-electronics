@@ -102,7 +102,8 @@ This list is for websites, services, software, tools and more: everything that y
 ## Inventory Management and Purchasing
 - [1-click BOM](https://1clickBOM.com) - Browser extensions that automates purchasing and part searching. 
 - [Partsbox.io](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
-- [Partkeepr](https://partkeepr.org) - Open source web service to manage your part inventory.
+- [Partkeepr](https://partkeepr.org) - Open source web service for managing your part inventory with parametric search and automatic datasheet import.
+- [Part-DB](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
 
 ## Miscellaneous Web Services
 - [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
