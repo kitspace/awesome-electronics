@@ -35,6 +35,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Learning](#learning)
   * [Technical Tutorials](#technical-tutorials)
   * [Theory and Courses](#theory-and-courses)
+- [Subscription Kit Services](#subscription-kit-services)
 - [Other Lists](#other-lists)
 
 <!-- tocstop -->
@@ -164,6 +165,10 @@ This list is for websites, services, software, tools and more: everything that y
 ### Theory and Courses
 - [All About Circuits](https://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
 - [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
+
+## Subscription Kit Services
+- [Boldport Club](https://www.boldport.club) - Electronic projects for the curious. As a member of the Boldport Club you’ll receive an electronics project once a month.
+- [AdaBox](https://www.adafruit.com/adabox/) - Curated Adafruit products, unique collectibles, and exclusive discounts. All delivered quarterly.
 
 ## Other Lists
 - [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from china, that you can use in your projects
