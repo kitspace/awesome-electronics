@@ -68,6 +68,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Design Spark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
 - [Altium Circuit Maker](https://circuitmaker.com/) - Free package from the maker of the go to pro software.
 - [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
+- [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
 
 
 ## CAD Specific 
