@@ -2,7 +2,7 @@
 
 > A curated list of awesome resources for electronic engineers and hobbyists
 
-Electronic engineering (EE) is the practice of understanding, designing and building electronic circuits. It is often differentiated from electrical engineering in that it mostly deals with low power DC electronic circuits rather than high power AC systems but there is a lot of overlap between electronic and electrical engineering. 
+Electronic engineering (EE) is the practice of understanding, designing and building electronic circuits. It is often differentiated from electrical engineering in that it mostly deals with low power DC electronic circuits rather than high power AC systems but there is a lot of overlap between electronic and electrical engineering.
 
 Experimenting with and building electronic circuits is also a popular hobby and many professional resources are often equally applicable to hobbyists and vice versa.
 
@@ -71,12 +71,12 @@ This list is for websites, services, software, tools and more: everything that y
 - [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
 
 
-## CAD Specific 
+## CAD Specific
 
 ### KiCAD
 - [Xesscorp's list of KiCAD 3rd part tools](https://github.com/xesscorp/kicad-3rd-party-tools)
-- [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible. 
-- [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial. 
+- [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
+- [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
 - [KiCAD.info Forums](https://forum.kicad.info) - User discussion and help forum.
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 - [Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/static/downloads/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
@@ -103,7 +103,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 
 ## Inventory Management and Purchasing
-- [1-click BOM](https://1clickbom.com) - Browser extensions that automates purchasing and part searching. 
+- [1-click BOM](https://1clickbom.com) - Browser extensions that automates purchasing and part searching.
 - [Partsbox.io](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
 - [Partkeepr](https://partkeepr.org) - Open source web service for managing your part inventory with parametric search and automatic datasheet import.
 - [Part-DB](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
@@ -114,7 +114,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
-- [Adafruit](https://www.adafruit.com/) - Another retailer and designer with excellent selection and tutorials. 
+- [Adafruit](https://www.adafruit.com/) - Another retailer and designer with excellent selection and tutorials.
 - [Tindie](https://www.tindie.com) - Marketplace for electronics makers to sell low volume batches of their own designs.
 
 ## Blogs
@@ -140,11 +140,11 @@ This list is for websites, services, software, tools and more: everything that y
  - [Embedded FM](https://www.embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests.
  - [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
  - [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - Weekly podcast where Parker and Stephen from MacroFab discuss EE topics and industry news
- - [The Engineering Commons Podcast](http://theengineeringcommons.com/) - Covers general engineering topics from mechanical to electrical. 
+ - [The Engineering Commons Podcast](http://theengineeringcommons.com/) - Covers general engineering topics from mechanical to electrical.
 
 
 ## Videos
-- [EEVblog](https://www.youtube.com/user/EEVblog) - One of the earliest and most successful YouTube channels where Dave Jones does teardowns, tutorials and more. 
+- [EEVblog](https://www.youtube.com/user/EEVblog) - One of the earliest and most successful YouTube channels where Dave Jones does teardowns, tutorials and more.
 - [ElectroBOOM](https://www.youtube.com/user/msadaghd) - YouTube channel that debunks and explains EE topics with a lot of comedy thrown in.
 - [Micah Scott](https://www.youtube.com/user/micahjd) - Video logs of reverse engineering and re-purposing consumer electronics hardware in creative ways.
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) - Tutorials on electronics projects, often suitable for beginners as well.
@@ -159,7 +159,7 @@ This list is for websites, services, software, tools and more: everything that y
 ## Learning
 
 ### Technical Tutorials
-- ["skill" tag on learn.sparkfun.com](https://learn.sparkfun.com/tutorials/tags/skill) - A wide variety of technical tutorials on various EE related skills. 
+- ["skill" tag on learn.sparkfun.com](https://learn.sparkfun.com/tutorials/tags/skill) - A wide variety of technical tutorials on various EE related skills.
 - [Soldering is Easy](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) - Comic book that goes over the basics of soldering that has been translated into quite a few languages.
 - [Uses of Different Soldering Iron Tips](http://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/) - Covers what all those different soldering iron tips are good for.
 
@@ -173,7 +173,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Other Lists
 - [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from china, that you can use in your projects
-- [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available. 
+- [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
 - [intajay/open-electronics](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources
 - [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics
