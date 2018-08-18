@@ -11,7 +11,9 @@ This list is for websites, services, software, tools and more: everything that y
 ## Contents
 
 <!-- toc -->
-
+- [Learning](#learning)
+  * [Technical Tutorials](#technical-tutorials)
+  * [Theory and Courses](#theory-and-courses)
 - [Simulators](#simulators)
 - [Gerber Viewers](#gerber-viewers)
   * [Online](#online)
@@ -32,13 +34,22 @@ This list is for websites, services, software, tools and more: everything that y
   * [Help](#help)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
-- [Learning](#learning)
-  * [Technical Tutorials](#technical-tutorials)
-  * [Theory and Courses](#theory-and-courses)
 - [Subscription Kit Services](#subscription-kit-services)
 - [Other Lists](#other-lists)
 
 <!-- tocstop -->
+
+## Learning
+
+### Technical Tutorials
+- ["skill" tag on learn.sparkfun.com](https://learn.sparkfun.com/tutorials/tags/skill) - A wide variety of technical tutorials on various EE related skills.
+- [Soldering is Easy](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) - Comic book that goes over the basics of soldering that has been translated into quite a few languages.
+- [Uses of Different Soldering Iron Tips](http://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/) - Covers what all those different soldering iron tips are good for.
+
+### Theory and Courses
+- [All About Circuits](https://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
+- [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
+
 
 ## Simulators
 - [LTSpice](http://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies.
@@ -157,20 +168,11 @@ This list is for websites, services, software, tools and more: everything that y
 - [MikesElectricStuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - Teardowns, large lighting projects, xrays and more.
 - [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) - Series of videos on building an 8-bit computer on breadboards with excellent explanations of all the sub-circuits.
 
-## Learning
-
-### Technical Tutorials
-- ["skill" tag on learn.sparkfun.com](https://learn.sparkfun.com/tutorials/tags/skill) - A wide variety of technical tutorials on various EE related skills.
-- [Soldering is Easy](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) - Comic book that goes over the basics of soldering that has been translated into quite a few languages.
-- [Uses of Different Soldering Iron Tips](http://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/) - Covers what all those different soldering iron tips are good for.
-
-### Theory and Courses
-- [All About Circuits](https://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
-- [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
 
 ## Subscription Kit Services
 - [Boldport Club](https://www.boldport.club) - Electronic projects for the curious. As a member of the Boldport Club you’ll receive an electronics project once a month.
 - [AdaBox](https://www.adafruit.com/adabox/) - Curated Adafruit products, unique collectibles, and exclusive discounts. All delivered quarterly.
+
 
 ## Other Lists
 - [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from china, that you can use in your projects
