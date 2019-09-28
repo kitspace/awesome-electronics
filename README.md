@@ -65,7 +65,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Tracespace Viewer](http://viewer.tracespace.io) -  Gerber viewer that lets you inspect the individual layers as well as the board preview.
 - [Gerblook](http://gerblook.org/) - Online Gerber viewer powered by Gerbv.
 - [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) - 3D Gerber viewer.
-- [EasyEDA Gerber Viewer](https://gerber-viewer.easyeda.com/) - Gerber viewer and design for manufacture test.
 - [CircuitPeople](https://circuitpeople.com) - No frills 2D layer viewer for Gerbers, without the excessive processing.
 
 ### Installable
