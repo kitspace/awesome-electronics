@@ -22,6 +22,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [CAD Specific](#cad-specific)
   * [KiCAD](#kicad)
   * [Eagle](#eagle)
+- [PCB Syntax Highlighting](#pcb-syntax-highlighting)
 - [PCB Batching Services](#pcb-batching-services)
 - [Part Search Engines](#part-search-engines)
 - [Project Sharing Platforms](#project-sharing-platforms)
@@ -99,6 +100,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 - [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
 - [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
+
+## PCB Syntax Highlighting
+- [Language PCB](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
 
 ## PCB Batching Services
 - [PCB Shopper](https://pcbshopper.com/) - Comparison service for quite a lot of different PCB batching and assembly services.
