@@ -60,7 +60,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Every Circuit](http://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
 - [Qucs](http://qucs.sourceforge.net/) - Open source integrated circuit simulator for DC, AC, S-parameter, noise analysis, etc.
 - [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
-
+  
 ## Gerber Viewers
 
 ### Online
@@ -83,6 +83,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
 - [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
 - [Horizon EDA](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
+- [Caneda](http://caneda.org/) - Caneda is an open source EDA software suite focused on ease of use and portability.
 
 ## CAD Specific
 
