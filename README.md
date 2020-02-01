@@ -51,7 +51,7 @@ This list is for websites, services, software, tools and more: everything that y
 ### Theory and Courses
 - [All About Circuits](https://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
 - [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
-
+- [Simple Electronics Wiki](https://simpleelectronics.miraheze.org/wiki/Main_Page) - Entry level electronics tutorials as a wiki that anyone can edit.
 
 ## Simulators
 - [LTSpice](http://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies.
