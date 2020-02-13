@@ -50,6 +50,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Theory and Courses
 - [All About Circuits](https://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
+- [Ultimate Electronics](https://ultimateelectronicsbook.com/) - (Still unfinished) book that goes through circuit theory with interactive schematics that you can load, simulate and change.
 - [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
 
 
