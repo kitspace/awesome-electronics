@@ -66,6 +66,7 @@ This list is for websites, services, software, tools and more: everything that y
 ## Gerber Viewers
 
 ### Online
+- [Stackrate Viewer](http://stackrate.de/viewer) - Easy to use online gerber viewer with trace hovering and measurement tools.
 - [Tracespace Viewer](http://viewer.tracespace.io) -  Gerber viewer that lets you inspect the individual layers as well as the board preview.
 - [Gerblook](http://gerblook.org/) - Online Gerber viewer powered by Gerbv.
 - [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) - 3D Gerber viewer.
