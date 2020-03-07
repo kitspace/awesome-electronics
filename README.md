@@ -25,6 +25,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [PCB Syntax Highlighting](#pcb-syntax-highlighting)
 - [PCB Batching Services](#pcb-batching-services)
 - [Part Search Engines](#part-search-engines)
+- [Version Control for Hardware](#version-control-for-hardware)
 - [Project Sharing Platforms](#project-sharing-platforms)
 - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
 - [Miscellaneous Web Services](#miscellaneous-web-services)
@@ -120,6 +121,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
 - [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
 
+
+## Version Control for Hardware
+- [InventHub](https://inventhub.io/) - Git based Visual-VCS for ECAD designs and collaboration platform for hardware development supporting Eagle CAD, KiCAD and more.
 
 ## Project Sharing Platforms
 - [Kitspace.org](https://kitspace.org) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
