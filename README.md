@@ -124,6 +124,7 @@ This list is for websites, services, software, tools and more: everything that y
 ## Project Sharing Platforms
 - [Kitspace.org](https://kitspace.org) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
+- [Hackster.io](https://www.hackster.io/) - Another social site for sharing projects. Is well organised by platform, topic and product
 - [InventHub](https://inventhub.io/) - Git-based project hosting and collaboration platform for hardware development
 - [CADLab](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development
 
@@ -148,7 +149,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [bunniestudios.com](https://www.bunniestudios.com) - Andrew 'Bunnie' Huang covers hardware hacking, open hardware, manufacturing and more.
 - [Bald Engineer](https://www.baldengineer.com) - Project logs, tutorials and articles about electronics and embedded software by James Lewis.
 - [Rheingold Heavy](https://rheingoldheavy.com) - More project logs, tutorials and articles about electronics and embedded software, these ones by Dan Hienzsch.
+- [Hackster.io](https://blog.hackster.io/) - Another blog covering electronics
 - [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
+
 
 ## Forums
 
