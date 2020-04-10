@@ -11,7 +11,9 @@ This list is for websites, services, software, tools and more: everything that y
 ## Contents
 
 <!-- toc -->
-
+- [Learning](#learning)
+  * [Technical Tutorials](#technical-tutorials)
+  * [Theory and Courses](#theory-and-courses)
 - [Simulators](#simulators)
 - [Gerber Viewers](#gerber-viewers)
   * [Online](#online)
@@ -20,6 +22,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [CAD Specific](#cad-specific)
   * [KiCAD](#kicad)
   * [Eagle](#eagle)
+- [PCB Syntax Highlighting](#pcb-syntax-highlighting)
 - [PCB Batching Services](#pcb-batching-services)
 - [Part Search Engines](#part-search-engines)
 - [Project Sharing Platforms](#project-sharing-platforms)
@@ -32,13 +35,24 @@ This list is for websites, services, software, tools and more: everything that y
   * [Help](#help)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
-- [Learning](#learning)
-  * [Technical Tutorials](#technical-tutorials)
-  * [Theory and Courses](#theory-and-courses)
 - [Subscription Kit Services](#subscription-kit-services)
+- [3D Part Models](#3d-part-models)
 - [Other Lists](#other-lists)
 
 <!-- tocstop -->
+
+## Learning
+
+### Technical Tutorials
+- ["skill" tag on learn.sparkfun.com](https://learn.sparkfun.com/tutorials/tags/skill) - A wide variety of technical tutorials on various EE related skills.
+- [Soldering is Easy](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) - Comic book that goes over the basics of soldering that has been translated into quite a few languages.
+- [Uses of Different Soldering Iron Tips](http://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/) - Covers what all those different soldering iron tips are good for.
+
+### Theory and Courses
+- [All About Circuits](https://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
+- [Ultimate Electronics](https://ultimateelectronicsbook.com/) - (Still unfinished) book that goes through circuit theory with interactive schematics that you can load, simulate and change.
+- [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
+
 
 ## Simulators
 - [LTSpice](http://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies.
@@ -47,6 +61,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Every Circuit](http://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
 - [Qucs](http://qucs.sourceforge.net/) - Open source integrated circuit simulator for DC, AC, S-parameter, noise analysis, etc.
 - [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
+- [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
 
 ## Gerber Viewers
 
@@ -54,8 +69,8 @@ This list is for websites, services, software, tools and more: everything that y
 - [Tracespace Viewer](http://viewer.tracespace.io) -  Gerber viewer that lets you inspect the individual layers as well as the board preview.
 - [Gerblook](http://gerblook.org/) - Online Gerber viewer powered by Gerbv.
 - [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) - 3D Gerber viewer.
-- [EasyEDA Gerber Viewer](https://gerber-viewer.easyeda.com/) - Gerber viewer and design for manufacture test.
 - [CircuitPeople](https://circuitpeople.com) - No frills 2D layer viewer for Gerbers, without the excessive processing.
+- [Stackrate Viewer](http://stackrate.de/viewer) - Easy to use online gerber viewer with trace hovering and measurement tools.
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
@@ -69,39 +84,50 @@ This list is for websites, services, software, tools and more: everything that y
 - [Altium Circuit Maker](https://circuitmaker.com/) - Free package from the maker of the go to pro software.
 - [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
 - [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
-
+- [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
+- [Horizon EDA](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
+- [Caneda](http://caneda.org/) - Caneda is an open source EDA software suite focused on ease of use and portability.
 
 ## CAD Specific
 
 ### KiCAD
-- [Xesscorp's list of KiCAD 3rd part tools](https://github.com/xesscorp/kicad-3rd-party-tools)
+- [Xesscorp's list of KiCAD 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools)
 - [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 - [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
 - [KiCAD.info Forums](https://forum.kicad.info) - User discussion and help forum.
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 - [Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/static/downloads/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
 - [Footprint Collection](https://github.com/monostable/kicad_footprints) - Collection of all the KiCAD footprints available online and some scripts to manage them.
+- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 - [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
 - [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
+## PCB Syntax Highlighting
+- [Language PCB](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
+
 ## PCB Batching Services
 - [PCB Shopper](https://pcbshopper.com/) - Comparison service for quite a lot of different PCB batching and assembly services.
 - [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
 - [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 - [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - Low cost PCB batching service that prides itself on its "dirty" quality.
+- [JLCPCB](https://jlcpcb.com/) - Low cost PCB batching service with inhouse low cost SMT service.
 
 ## Part Search Engines
 - [Octopart](https://octopart.com) - Probably the most well known part search engine.
 - [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
 - [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
 
+
 ## Project Sharing Platforms
 - [Kitspace.org](https://kitspace.org) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 - [Hackster.io](https://www.hackster.io/) - Another social site for sharing projects. Is well organised by platform, topic and product
+- [InventHub](https://inventhub.io/) - Git-based project hosting and collaboration platform for hardware development
+- [CADLab](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development
+
 
 ## Inventory Management and Purchasing
 - [1-click BOM](https://1clickbom.com) - Browser extensions that automates purchasing and part searching.
@@ -124,6 +150,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [Bald Engineer](https://www.baldengineer.com) - Project logs, tutorials and articles about electronics and embedded software by James Lewis.
 - [Rheingold Heavy](https://rheingoldheavy.com) - More project logs, tutorials and articles about electronics and embedded software, these ones by Dan Hienzsch.
 - [Hackster.io](https://blog.hackster.io/) - Another blog covering electronics
+- [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
+
+
 ## Forums
 
 ### Discussion
@@ -157,24 +186,19 @@ This list is for websites, services, software, tools and more: everything that y
 - [MikesElectricStuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - Teardowns, large lighting projects, xrays and more.
 - [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) - Series of videos on building an 8-bit computer on breadboards with excellent explanations of all the sub-circuits.
 
-## Learning
-
-### Technical Tutorials
-- ["skill" tag on learn.sparkfun.com](https://learn.sparkfun.com/tutorials/tags/skill) - A wide variety of technical tutorials on various EE related skills.
-- [Soldering is Easy](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) - Comic book that goes over the basics of soldering that has been translated into quite a few languages.
-- [Uses of Different Soldering Iron Tips](http://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/) - Covers what all those different soldering iron tips are good for.
-
-### Theory and Courses
-- [All About Circuits](https://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
-- [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
 
 ## Subscription Kit Services
 - [Boldport Club](https://www.boldport.club) - Electronic projects for the curious. As a member of the Boldport Club you’ll receive an electronics project once a month.
 - [AdaBox](https://www.adafruit.com/adabox/) - Curated Adafruit products, unique collectibles, and exclusive discounts. All delivered quarterly.
 
+## 3D Part Models
+- [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models
+- [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login)
+
 ## Other Lists
-- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from china, that you can use in your projects
+- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects
 - [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
 - [intajay/open-electronics](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources
 - [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics
+- [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources
