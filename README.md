@@ -61,8 +61,8 @@ This list is for websites, services, software, tools and more: everything that y
 - [Every Circuit](http://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
 - [Qucs](http://qucs.sourceforge.net/) - Open source integrated circuit simulator for DC, AC, S-parameter, noise analysis, etc.
 - [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
-- [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types. 
-  
+- [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
+
 ## Gerber Viewers
 
 ### Online
@@ -124,6 +124,9 @@ This list is for websites, services, software, tools and more: everything that y
 ## Project Sharing Platforms
 - [Kitspace.org](https://kitspace.org) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
+- [InventHub](https://inventhub.io/) - Git-based project hosting and collaboration platform for hardware development
+- [CADLab](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development
+
 
 ## Inventory Management and Purchasing
 - [1-click BOM](https://1clickbom.com) - Browser extensions that automates purchasing and part searching.
