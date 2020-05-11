@@ -11,10 +11,14 @@ This list is for websites, services, software, tools and more: everything that y
 ## Contents
 
 <!-- toc -->
+
 - [Learning](#learning)
   * [Technical Tutorials](#technical-tutorials)
   * [Theory and Courses](#theory-and-courses)
+  * [University Course Archives](#university-course-archives)
 - [Simulators](#simulators)
+  * [Analog and Mixed Signal Circuit Simulators](#analog-and-mixed-signal-circuit-simulators)
+  * [Verilog HDL Simulators](#verilog-hdl-simulators)
 - [Gerber Viewers](#gerber-viewers)
   * [Online](#online)
   * [Installable](#installable)
@@ -53,15 +57,33 @@ This list is for websites, services, software, tools and more: everything that y
 - [Ultimate Electronics](https://ultimateelectronicsbook.com/) - (Still unfinished) book that goes through circuit theory with interactive schematics that you can load, simulate and change.
 - [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
 
+### University Course Archives
+
+- [Berkeley EECS](http://inst.eecs.berkeley.edu/classes-eecs.html) - Comprehensive EE & CS course website archives.
+- [Dr. Jacob Baker](http://cmosedu.com) - Courses and tutorials, professor at The University of Nevada, Las Vegas.
+- [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/), and [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) - Courses materials, professors at UT Austin
 
 ## Simulators
-- [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies.
+
+### Analog and Mixed Signal Circuit Simulators
+
+- [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice).
 - [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
 - [Circuit JS](http://www.falstad.com/circuit/circuitjs.html) - Open source online simulator for simpler circuits with live interactivity and visualization.
 - [Every Circuit](https://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
-- [Qucs](http://qucs.sourceforge.net/) - Open source integrated circuit simulator for DC, AC, S-parameter, noise analysis, etc.
+- [Qucs](http://qucs.sourceforge.net/) - Open source, cross-platform, non-SPICE-based circuit simulator, with with S-parameter and Harmonic Balance capability.
+- [Qucs Studio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
+- [Open Circuit Design Software](http://opencircuitdesign.com) - Open Source, full EDA suite chip design suite, focused on keeping up with commercial tools.
+- [TINA-TI](http://www.ti.com/tool/TINA-TI) - Exclusive [DesignSoft-TINA](https://www.tina.com) build for Texas Instruments, bundled with Texas Instruments Models.
+- [CppSim](https://www.cppsim.com/) - Free, open source circuit simulator that leverages the C++ language to achieve very fast simulation times.
+- [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
 - [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
 - [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
+
+### Verilog HDL Simulators
+
+- [Verilator](https://www.veripool.org/wiki/verilator) - Free, open source Verilog compiler. Test benches are in C++ or SystemC. Very fast, but limted to 2-state, cycle-based simulation, and synthesizeable code only.
+- [Icarus Verilog](http://iverilog.icarus.com/) - Free, open source verilog interpreter. Test benches are in behavioral verilog. Simulation is 4-state, and event-based.
 
 ## Gerber Viewers
 
@@ -202,3 +224,4 @@ This list is for websites, services, software, tools and more: everything that y
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources
 - [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics
 - [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources
+- [TCAD Central](https://tcad.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM
