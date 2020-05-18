@@ -1,4 +1,4 @@
-# Awesome Electronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Electronics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources for electronic engineers and hobbyists
 
@@ -24,7 +24,7 @@ This list is for websites, services, software, tools and more: everything that y
   * [Installable](#installable)
 - [Free EDA Packages](#free-eda-packages)
 - [CAD Specific](#cad-specific)
-  * [KiCAD](#kicad)
+  * [KiCad](#kicad)
   * [Eagle](#eagle)
 - [PCB Syntax Highlighting](#pcb-syntax-highlighting)
 - [PCB Batching Services](#pcb-batching-services)
@@ -53,9 +53,11 @@ This list is for websites, services, software, tools and more: everything that y
 - [Uses of Different Soldering Iron Tips](https://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/) - Covers what all those different soldering iron tips are good for.
 
 ### Theory and Courses
-- [All About Circuits](https://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
-- [Ultimate Electronics](https://ultimateelectronicsbook.com/) - (Still unfinished) book that goes through circuit theory with interactive schematics that you can load, simulate and change.
-- [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
+
+- [Lessons In Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/) - Free high quality textbooks and worksheets with emphasis on theory, simulation, and the socratic method.
+- [Ultimate Electronics: Practical Circuit Design and Analysis](https://ultimateelectronicsbook.com/) - Free online book with interactive schematics & simulations by CircuitLab (under development).
+- [Khan Academy - Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering) - Non-profit learning platform with a full course on electrical engineering and related topics.
+- [NEETS (Navy Electricity and Electronics Training Series)](https://www.fcctests.com/neets/Neets.htm) - U.S. Navy Non-Resident Training Course Material.
 
 ### University Course Archives
 
@@ -68,9 +70,9 @@ This list is for websites, services, software, tools and more: everything that y
 ### Analog and Mixed Signal Circuit Simulators
 
 - [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice).
-- [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
-- [Circuit JS](http://www.falstad.com/circuit/circuitjs.html) - Open source online simulator for simpler circuits with live interactivity and visualization.
-- [Every Circuit](https://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
+- [ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
+- [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) - Free, open source online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad).
+- [EveryCircuit](https://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
 - [Qucs](http://qucs.sourceforge.net/) - Open source, cross-platform, non-SPICE-based circuit simulator, with with S-parameter and Harmonic Balance capability.
 - [Qucs Studio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
 - [Open Circuit Design Software](http://opencircuitdesign.com) - Open Source, full EDA suite chip design suite, focused on keeping up with commercial tools.
@@ -96,14 +98,14 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
-- [KiCad GerbView](https://kicad-pcb.org/) - The KiCAD gerber viewer.
+- [KiCad GerbView](https://kicad-pcb.org/) - The KiCad gerber viewer.
 
 
 ## Free EDA Packages
 - [KiCad](https://kicad-pcb.org/) - Open source EDA package with push and shove router, differential pairs and much more.
 - [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
-- [Design Spark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
-- [Altium Circuit Maker](https://circuitmaker.com/) - Free package from the maker of the go to pro software.
+- [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
+- [Altium CircuitMaker](https://circuitmaker.com/) - Free package from the maker of the go to pro software.
 - [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
 - [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
 - [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
@@ -112,14 +114,14 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## CAD Specific
 
-### KiCAD
-- [Xesscorp's list of KiCAD 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools)
+### KiCad
+- [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools)
 - [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 - [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
-- [KiCAD.info Forums](https://forum.kicad.info) - User discussion and help forum.
+- [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 - [Cheatsheet](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
-- [Footprint Collection](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCAD footprints available online and some scripts to manage them.
+- [Footprint Collection](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
 - [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 
 ### Eagle
@@ -146,9 +148,9 @@ This list is for websites, services, software, tools and more: everything that y
 ## Project Sharing Platforms
 - [Kitspace.org](https://kitspace.org) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
-- [Hackster.io](https://www.hackster.io/) - Another social site for sharing projects. Is well organised by platform, topic and product
-- [InventHub](https://inventhub.io/) - Git-based project hosting and collaboration platform for hardware development
-- [CADLab](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development
+- [Hackster.io](https://www.hackster.io/) - Another social site for sharing projects. Is well organised by platform, topic and product.
+- [InventHub](https://inventhub.io/) - Git-based project hosting and collaboration platform for hardware development.
+- [CADLab](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development.
 
 
 ## Inventory Management and Purchasing
@@ -158,8 +160,8 @@ This list is for websites, services, software, tools and more: everything that y
 - [Part-DB](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
 
 ## Miscellaneous Web Services
-- [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
-- [SnapEDA.com](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCAD, Altium, OrCad, Allegro, etc.)
+- [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCad designs online.
+- [SnapEDA.com](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
@@ -171,7 +173,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [bunniestudios.com](https://www.bunniestudios.com) - Andrew 'Bunnie' Huang covers hardware hacking, open hardware, manufacturing and more.
 - [Bald Engineer](https://www.baldengineer.com) - Project logs, tutorials and articles about electronics and embedded software by James Lewis.
 - [Rheingold Heavy](https://rheingoldheavy.com) - More project logs, tutorials and articles about electronics and embedded software, these ones by Dan Hienzsch.
-- [Hackster.io](https://www.hackster.io/news) - Another blog covering electronics
+- [Hackster.io](https://www.hackster.io/news) - Another blog covering electronics.
 - [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
 
 
@@ -182,17 +184,17 @@ This list is for websites, services, software, tools and more: everything that y
 - [/r/electronics](https://www.reddit.com/r/electronics/) and [/r/ECE](https://www.reddit.com/r/ECE/) are the two most active sub-reddits for EE topics.
 
 ### Help
- - [/r/askelectronics](https://www.reddit.com/r/AskElectronics/) - Sub-reddit dedicated to help on electronics topics.
- - [Electronics Stack Exchange](https://electronics.stackexchange.com) - Question and answer site for electronics running on the popular Stack Overflow service.
- - [EEVBlog beginners forum](https://www.eevblog.com/forum/beginners/) - Good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
+- [/r/askelectronics](https://www.reddit.com/r/AskElectronics/) - Sub-reddit dedicated to help on electronics topics.
+- [Electronics Stack Exchange](https://electronics.stackexchange.com) - Question and answer site for electronics running on the popular Stack Overflow service.
+- [EEVBlog beginners forum](https://www.eevblog.com/forum/beginners/) - Good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
 
 
 ## Podcasts
- - [The Amp Hour](https://theamphour.com/) - Off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
- - [Embedded FM](https://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests.
- - [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
- - [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - Weekly podcast where Parker and Stephen from MacroFab discuss EE topics and industry news
- - [The Engineering Commons Podcast](http://theengineeringcommons.com/) - Covers general engineering topics from mechanical to electrical.
+- [The Amp Hour](https://theamphour.com/) - Off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
+- [Embedded FM](https://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests.
+- [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
+- [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - Weekly podcast where Parker and Stephen from MacroFab discuss EE topics and industry news.
+- [The Engineering Commons Podcast](http://theengineeringcommons.com/) - Covers general engineering topics from mechanical to electrical.
 
 
 ## Videos
@@ -215,14 +217,14 @@ This list is for websites, services, software, tools and more: everything that y
 - [AdaBox](https://www.adafruit.com/adabox/) - Curated Adafruit products, unique collectibles, and exclusive discounts. All delivered quarterly.
 
 ## 3D Part Models
-- [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models
-- [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login)
+- [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models.
+- [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login).
 
 ## Other Lists
-- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects
+- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
 - [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
-- [intajay/open-electronics](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers
-- [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources
-- [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics
-- [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources
-- [TCAD Central](https://tcad.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM
+- [intajay/open-electronics](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
+- [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
+- [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
+- [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
+- [TCAD Central](https://tcad.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
