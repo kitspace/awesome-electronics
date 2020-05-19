@@ -13,19 +13,19 @@ This list is for websites, services, software, tools and more: everything that y
 <!-- toc -->
 
 - [Learning](#learning)
-  * [Technical Tutorials](#technical-tutorials)
-  * [Theory and Courses](#theory-and-courses)
-  * [University Course Archives](#university-course-archives)
+  - [Technical Tutorials](#technical-tutorials)
+  - [Theory and Courses](#theory-and-courses)
+  - [University Course Archives](#university-course-archives)
 - [Simulators](#simulators)
-  * [Analog and Mixed Signal Circuit Simulators](#analog-and-mixed-signal-circuit-simulators)
-  * [Verilog HDL Simulators](#verilog-hdl-simulators)
+  - [Analog and Mixed Signal Circuit Simulators](#analog-and-mixed-signal-circuit-simulators)
+  - [Verilog HDL Simulators](#verilog-hdl-simulators)
 - [Gerber Viewers](#gerber-viewers)
-  * [Online](#online)
-  * [Installable](#installable)
+  - [Online](#online)
+  - [Installable](#installable)
 - [Free EDA Packages](#free-eda-packages)
 - [CAD Specific](#cad-specific)
-  * [KiCad](#kicad)
-  * [Eagle](#eagle)
+  - [KiCad](#kicad)
+  - [Eagle](#eagle)
 - [PCB Syntax Highlighting](#pcb-syntax-highlighting)
 - [PCB Batching Services](#pcb-batching-services)
 - [Part Search Engines](#part-search-engines)
@@ -35,8 +35,8 @@ This list is for websites, services, software, tools and more: everything that y
 - [Development Board Retailers](#development-board-retailers)
 - [Blogs](#blogs)
 - [Forums](#forums)
-  * [Discussion](#discussion)
-  * [Help](#help)
+  - [Discussion](#discussion)
+  - [Help](#help)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
 - [Subscription Kit Services](#subscription-kit-services)
@@ -74,7 +74,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) - Free, open source online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad).
 - [EveryCircuit](https://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
 - [Qucs](http://qucs.sourceforge.net/) - Open source, cross-platform, non-SPICE-based circuit simulator, with with S-parameter and Harmonic Balance capability.
-- [Qucs Studio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
+- [QucsStudio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
 - [Open Circuit Design Software](http://opencircuitdesign.com) - Open Source, full EDA suite chip design suite, focused on keeping up with commercial tools.
 - [TINA-TI](http://www.ti.com/tool/TINA-TI) - Exclusive [DesignSoft-TINA](https://www.tina.com) build for Texas Instruments, bundled with Texas Instruments Models.
 - [CppSim](https://www.cppsim.com/) - Free, open source circuit simulator that leverages the C++ language to achieve very fast simulation times.
