@@ -13,19 +13,19 @@ This list is for websites, services, software, tools and more: everything that y
 <!-- toc -->
 
 - [Learning](#learning)
-  * [Technical Tutorials](#technical-tutorials)
-  * [Theory and Courses](#theory-and-courses)
-  * [University Course Archives](#university-course-archives)
+  - [Technical Tutorials](#technical-tutorials)
+  - [Theory and Courses](#theory-and-courses)
+  - [University Course Archives](#university-course-archives)
 - [Simulators](#simulators)
-  * [Analog and Mixed Signal Circuit Simulators](#analog-and-mixed-signal-circuit-simulators)
-  * [Verilog HDL Simulators](#verilog-hdl-simulators)
+  - [Analog and Mixed Signal Circuit Simulators](#analog-and-mixed-signal-circuit-simulators)
+  - [Verilog HDL Simulators](#verilog-hdl-simulators)
 - [Gerber Viewers](#gerber-viewers)
-  * [Online](#online)
-  * [Installable](#installable)
+  - [Online](#online)
+  - [Installable](#installable)
 - [Free EDA Packages](#free-eda-packages)
 - [CAD Specific](#cad-specific)
-  * [KiCad](#kicad)
-  * [Eagle](#eagle)
+  - [KiCad](#kicad)
+  - [Eagle](#eagle)
 - [PCB Syntax Highlighting](#pcb-syntax-highlighting)
 - [PCB Batching Services](#pcb-batching-services)
 - [Part Search Engines](#part-search-engines)
@@ -35,8 +35,8 @@ This list is for websites, services, software, tools and more: everything that y
 - [Development Board Retailers](#development-board-retailers)
 - [Blogs](#blogs)
 - [Forums](#forums)
-  * [Discussion](#discussion)
-  * [Help](#help)
+  - [Discussion](#discussion)
+  - [Help](#help)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
 - [Subscription Kit Services](#subscription-kit-services)
@@ -74,7 +74,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) - Free, open source online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad).
 - [EveryCircuit](https://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
 - [Qucs](http://qucs.sourceforge.net/) - Open source, cross-platform, non-SPICE-based circuit simulator, with with S-parameter and Harmonic Balance capability.
-- [Qucs Studio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
+- [QucsStudio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
 - [Open Circuit Design Software](http://opencircuitdesign.com) - Open Source, full EDA suite chip design suite, focused on keeping up with commercial tools.
 - [TINA-TI](http://www.ti.com/tool/TINA-TI) - Exclusive [DesignSoft-TINA](https://www.tina.com) build for Texas Instruments, bundled with Texas Instruments Models.
 - [CppSim](https://www.cppsim.com/) - Free, open source circuit simulator that leverages the C++ language to achieve very fast simulation times.
@@ -132,7 +132,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Language PCB](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
 
 ## PCB Batching Services
-- [PCB Shopper](https://pcbshopper.com/) - Comparison service for quite a lot of different PCB batching and assembly services.
+- [PCBShopper](https://pcbshopper.com/) - Comparison service for quite a lot of different PCB batching and assembly services.
 - [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
 - [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 - [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - Low cost PCB batching service that prides itself on its "dirty" quality.
@@ -145,22 +145,22 @@ This list is for websites, services, software, tools and more: everything that y
 
 
 ## Project Sharing Platforms
-- [Kitspace.org](https://kitspace.org) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
+- [Kitspace](https://kitspace.org) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 - [Hackster.io](https://www.hackster.io/) - Another social site for sharing projects. Is well organised by platform, topic and product.
 - [InventHub](https://inventhub.io/) - Git-based project hosting and collaboration platform for hardware development.
-- [CADLab](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development.
+- [CADLAB](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development.
 
 
 ## Inventory Management and Purchasing
 - [1-click BOM](https://kitspace.org/1-click-bom/) - Browser extensions that automates purchasing and part searching.
-- [Partsbox.io](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
-- [Partkeepr](https://partkeepr.org) - Open source web service for managing your part inventory with parametric search and automatic datasheet import.
+- [PartsBox](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
+- [PartKeepr](https://partkeepr.org) - Open source web service for managing your part inventory with parametric search and automatic datasheet import.
 - [Part-DB](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
 
 ## Miscellaneous Web Services
-- [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCad designs online.
-- [SnapEDA.com](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
+- [Eyrie](https://eyrie.io) - For viewing Eagle and KiCad designs online.
+- [SnapEDA](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
@@ -190,8 +190,8 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Podcasts
 - [The Amp Hour](https://theamphour.com/) - Off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
-- [Embedded FM](https://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests.
-- [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
+- [Embedded.fm](https://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests.
+- [The Spark Gap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
 - [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - Weekly podcast where Parker and Stephen from MacroFab discuss EE topics and industry news.
 - [The Engineering Commons Podcast](http://theengineeringcommons.com/) - Covers general engineering topics from mechanical to electrical.
 
