@@ -26,12 +26,11 @@ This list is for websites, services, software, tools and more: everything that y
 - [CAD Specific](#cad-specific)
   - [KiCad](#kicad)
   - [Eagle](#eagle)
-- [PCB Syntax Highlighting](#pcb-syntax-highlighting)
 - [PCB Batching Services](#pcb-batching-services)
 - [Part Search Engines](#part-search-engines)
 - [Project Sharing Platforms](#project-sharing-platforms)
 - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
-- [Miscellaneous Web Services](#miscellaneous-web-services)
+- [Miscellaneous Software Projects](#miscellaneous-software-projects)
 - [Development Board Retailers](#development-board-retailers)
 - [Blogs](#blogs)
 - [Forums](#forums)
@@ -128,8 +127,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
 - [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
-## PCB Syntax Highlighting
-- [Language PCB](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
 
 ## PCB Batching Services
 - [PCBShopper](https://pcbshopper.com/) - Comparison service for quite a lot of different PCB batching and assembly services.
@@ -150,6 +147,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Hackster.io](https://www.hackster.io/) - Another social site for sharing projects. Is well organised by platform, topic and product.
 - [InventHub](https://inventhub.io/) - Git-based project hosting and collaboration platform for hardware development.
 - [CADLAB](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development.
+- [Eyrie](https://eyrie.io) - For viewing Eagle and KiCad designs online.
 
 
 ## Inventory Management and Purchasing
@@ -158,9 +156,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [PartKeepr](https://partkeepr.org) - Open source web service for managing your part inventory with parametric search and automatic datasheet import.
 - [Part-DB](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
 
-## Miscellaneous Web Services
-- [Eyrie](https://eyrie.io) - For viewing Eagle and KiCad designs online.
+## Miscellaneous Software Projects
 - [SnapEDA](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
+- [Language PCB](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
