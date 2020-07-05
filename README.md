@@ -175,6 +175,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Hackster.io](https://www.hackster.io/news) - Another blog covering electronics.
 - [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
 
+
 ## Forums
 
 ### Discussion
