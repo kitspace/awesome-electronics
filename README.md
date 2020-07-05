@@ -19,6 +19,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Simulators](#simulators)
   - [Analog and Mixed Signal Circuit Simulators](#analog-and-mixed-signal-circuit-simulators)
   - [Verilog HDL Simulators](#verilog-hdl-simulators)
+  - [Online EDA and Simulators](#online-eda-and-simulators)
 - [Gerber Viewers](#gerber-viewers)
   - [Online](#online)
   - [Installable](#installable)
@@ -86,6 +87,12 @@ This list is for websites, services, software, tools and more: everything that y
 
 - [Verilator](https://www.veripool.org/wiki/verilator) - Free, open source Verilog compiler. Test benches are in C++ or SystemC. Very fast, but limted to 2-state, cycle-based simulation, and synthesizeable code only.
 - [Icarus Verilog](http://iverilog.icarus.com/) - Free, open source verilog interpreter. Test benches are in behavioral verilog. Simulation is 4-state, and event-based.
+
+## Online EDA and Simulators
+
+- [Upverter](https://upverter.com) - Free, fancy online EDA.
+- [CircuitLAB](https://www.circuitlab.com) - Freemium circuit design and simulator.
+- [AutoDesk TinkerCAD](https://www.tinkercad.com) - Free online EDA and Arduino simulator.
 
 ## Gerber Viewers
 
