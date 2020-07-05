@@ -28,6 +28,7 @@ This list is for websites, services, software, tools and more: everything that y
   - [Eagle](#eagle)
 - [PCB Syntax Highlighting](#pcb-syntax-highlighting)
 - [PCB Batching Services](#pcb-batching-services)
+- [DIY PCB](#diy-pcb)
 - [Part Search Engines](#part-search-engines)
 - [Project Sharing Platforms](#project-sharing-platforms)
 - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
