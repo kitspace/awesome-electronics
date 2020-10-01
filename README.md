@@ -59,6 +59,15 @@ This list is for websites, services, software, tools and more: everything that y
 - [Khan Academy - Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering) - Non-profit learning platform with a full course on electrical engineering and related topics.
 - [NEETS (Navy Electricity and Electronics Training Series)](https://www.fcctests.com/neets/Neets.htm) - U.S. Navy Non-Resident Training Course Material.
 
+### E-notes
+- http://engineering.nyu.edu/gk12/amps-cbri/pdf/Basic%20Electronics.pdf
+- http://www.ece.mtu.edu/faculty/ljbohman/onlinetext/elint200.pdf4
+- https://upload.wikimedia.org/wikipedia/commons/e/ee/Electronics.pdf
+- https://booksite.elsevier.com/samplechapters/9780750676069/9780750676069.PDF
+- http://cbseacademic.nic.in/web_material/Curriculum/Vocational/2018/Basic_Electronics_XI.pdf
+- http://aems.edu.sd/wp-content/uploads/2019/02/Electronics-Circuits-and-Systems-Fourth-Edition-PDFDrive.com-.pdf
+
+
 ### University Course Archives
 
 - [Berkeley EECS](http://inst.eecs.berkeley.edu/classes-eecs.html) - Comprehensive EE & CS course website archives.
