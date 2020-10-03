@@ -14,7 +14,8 @@ This list is for websites, services, software, tools and more: everything that y
 
 - [Learning](#learning)
   - [Technical Tutorials](#technical-tutorials)
-  - [Theory and Courses](#theory-and-courses)
+  - [Theory](#theory)
+  - [Courses](#courses)
   - [University Course Archives](#university-course-archives)
 - [Simulators](#simulators)
   - [Analog and Mixed Signal Circuit Simulators](#analog-and-mixed-signal-circuit-simulators)
@@ -52,20 +53,20 @@ This list is for websites, services, software, tools and more: everything that y
 - [Soldering is Easy](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) - Comic book that goes over the basics of soldering that has been translated into quite a few languages.
 - [Uses of Different Soldering Iron Tips](https://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/) - Covers what all those different soldering iron tips are good for.
 
-### Theory and Courses
-
-- [Lessons In Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/) - Free high quality textbooks and worksheets with emphasis on theory, simulation, and the socratic method.
-- [Ultimate Electronics: Practical Circuit Design and Analysis](https://ultimateelectronicsbook.com/) - Free online book with interactive schematics & simulations by CircuitLab (under development).
+### Courses
 - [Khan Academy - Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering) - Non-profit learning platform with a full course on electrical engineering and related topics.
 - [NEETS (Navy Electricity and Electronics Training Series)](https://www.fcctests.com/neets/Neets.htm) - U.S. Navy Non-Resident Training Course Material.
+- [NPTEL](https://nptel.ac.in/course.html) - Has all free engineering courses including electronics, electrical and communcation engineering.
+- [Udemy courses related to Electronics](https://www.udemy.com/topic/electronics/) - Top paid courses available on Udemy.
+- [Coursera courses related to Electronics](https://www.coursera.org/courses?query=electronics)- Includes some free courses that provide e-certificates on completion.
 
-### E-notes
-- http://engineering.nyu.edu/gk12/amps-cbri/pdf/Basic%20Electronics.pdf
-- http://www.ece.mtu.edu/faculty/ljbohman/onlinetext/elint200.pdf4
-- https://upload.wikimedia.org/wikipedia/commons/e/ee/Electronics.pdf
-- https://booksite.elsevier.com/samplechapters/9780750676069/9780750676069.PDF
-- http://cbseacademic.nic.in/web_material/Curriculum/Vocational/2018/Basic_Electronics_XI.pdf
-- http://aems.edu.sd/wp-content/uploads/2019/02/Electronics-Circuits-and-Systems-Fourth-Edition-PDFDrive.com-.pdf
+### Theory 
+- [Basic Electronics PPT](http://engineering.nyu.edu/gk12/amps-cbri/pdf/Basic%20Electronics.pdf) - Contains conceptual explaination of diode, BJT, J/MOS-FET, LED, 7 seg display, photo-resistor/diode/transistor
+- [Electronics textbook](https://upload.wikimedia.org/wikipedia/commons/e/ee/Electronics.pdf) - Text covers design and function of electronic circuits and components, DC analysis, and AC analysis. 
+- [Student Handbook](http://cbseacademic.nic.in/web_material/Curriculum/Vocational/2018/Basic_Electronics_XI.pdf) - Language used in this book easily understandable covers evolution, fundamentals, diode, rectifiers, transistors and its applications, SCR, DIAC and TRIAC.
+- [Electronics circuits and systems](http://aems.edu.sd/wp-content/uploads/2019/02/Electronics-Circuits-and-Systems-Fourth-Edition-PDFDrive.com-.pdf) - Quality free e-book covering all topics under circuits and systems, highly recommended for conceptual understanding.
+- [Lessons In Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/) - Free high quality textbooks and worksheets with emphasis on theory, simulation, and the socratic method.
+- [Ultimate Electronics: Practical Circuit Design and Analysis](https://ultimateelectronicsbook.com/) - Free online book with interactive schematics & simulations by CircuitLab (under development).
 
 
 ### University Course Archives
