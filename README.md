@@ -174,6 +174,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Rheingold Heavy](https://rheingoldheavy.com) - More project logs, tutorials and articles about electronics and embedded software, these ones by Dan Hienzsch.
 - [Hackster.io](https://www.hackster.io/news) - Another blog covering electronics.
 - [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
+- [N-O-D-E](https://n-o-d-e.net/) - Blog about DIY electronics, hardware, and technology.
 
 
 ## Forums
