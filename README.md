@@ -213,6 +213,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) - Series of videos on building an 8-bit computer on breadboards with excellent explanations of all the sub-circuits.
 - [Robert Feranec](https://www.youtube.com/user/matarofe) - 100+ Hardware design tips and tricks. Videos about Schematic design and PCB layout.
 - [Strange Parts](https://strangeparts.com) - [YouTube channel](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw) about electronics, manufacturing, making, world travel, living in and making things in China.
+- [Louis Rossmann](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w) - Macbook repair breakdowns and commentary on various topics
 
 ## Subscription Kit Services
 - [Boldport Club](https://boldport.com/) - Electronic projects for the curious. As a member of the Boldport Club you’ll receive an electronics project once a month.
