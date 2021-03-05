@@ -216,8 +216,8 @@ This list is for websites, services, software, tools and more: everything that y
 - [Strange Parts](https://strangeparts.com) - [YouTube channel](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw) about electronics, manufacturing, making, world travel, living in and making things in China.
 
 ## Subscription Kit Services
-- [Boldport Club](https://boldport.com/) - Electronic projects for the curious. As a member of the Boldport Club you’ll receive an electronics project once a month.
 - [AdaBox](https://www.adafruit.com/adabox/) - Curated Adafruit products, unique collectibles, and exclusive discounts. All delivered quarterly.
+- [HackerBoxes](https://hackerboxes.com/) - A monthly surprise box which includes projects, components, modules and tools.
 
 ## 3D Part Models
 - [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models.
