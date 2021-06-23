@@ -58,7 +58,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Lessons In Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/) - Free high quality textbooks and worksheets with emphasis on theory, simulation, and the socratic method.
 - [Ultimate Electronics: Practical Circuit Design and Analysis](https://ultimateelectronicsbook.com/) - Free online book with interactive schematics & simulations by CircuitLab (under development).
 - [Khan Academy - Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering) - Non-profit learning platform with a full course on electrical engineering and related topics.
-- [NEETS (Navy Electricity and Electronics Training Series)](https://www.fcctests.com/neets/Neets.htm) - U.S. Navy Non-Resident Training Course Material.
+- [NEETS (Navy Electricity and Electronics Training Series)](https://maritime.org/doc/#neets) ([alternative link](https://github.com/thinkitdata/neets/tree/master/modules))- U.S. Navy Non-Resident Training Course Material.
 
 ### University Course Archives
 
