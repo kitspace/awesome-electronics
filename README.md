@@ -99,11 +99,11 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
-- [KiCad GerbView](https://kicad-pcb.org/) - The KiCad gerber viewer.
+- [KiCad GerbView](https://kicad.org/) - The KiCad gerber viewer.
 
 
 ## Free EDA Packages
-- [KiCad](https://kicad-pcb.org/) - Open source EDA package with push and shove router, differential pairs and much more.
+- [KiCad](https://kicad.org/) - Open source EDA package with push and shove router, differential pairs and much more.
 - [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
 - [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
 - [Altium CircuitMaker](https://circuitmaker.com/) - Free package from the maker of the go to pro software.
