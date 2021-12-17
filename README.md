@@ -16,6 +16,7 @@ This list is for websites, services, software, tools and more: everything that y
   - [Technical Tutorials](#technical-tutorials)
   - [Theory and Courses](#theory-and-courses)
   - [University Course Archives](#university-course-archives)
+- [Documentation](#documentation)
 - [Simulators](#simulators)
   - [Analog and Mixed Signal Circuit Simulators](#analog-and-mixed-signal-circuit-simulators)
   - [Verilog HDL Simulators](#verilog-hdl-simulators)
@@ -65,6 +66,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [Berkeley EECS](http://inst.eecs.berkeley.edu/classes-eecs.html) - Comprehensive EE & CS course website archives.
 - [Dr. Jacob Baker](http://cmosedu.com) - Courses and tutorials, professor at The University of Nevada, Las Vegas.
 - [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/), and [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) - Courses materials, professors at UT Austin
+
+## Documentation
+- [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
 
 ## Simulators
 
