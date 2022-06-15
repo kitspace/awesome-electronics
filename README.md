@@ -42,6 +42,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Videos](#videos)
 - [Subscription Kit Services](#subscription-kit-services)
 - [3D Part Models](#3d-part-models)
+- [Further Readings](#further-readings)
 - [Other Lists](#other-lists)
 
 <!-- tocstop -->
@@ -227,6 +228,11 @@ This list is for websites, services, software, tools and more: everything that y
 ## 3D Part Models
 - [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models.
 - [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login).
+
+## Further Readings
+
+- [The Journal of Open Hardware](https://openhardware.metajnl.com/) - (JOH) is a peer reviewed open access publication for open hardware research and development.
+- [HardwareX Journal](https://www.journals.elsevier.com/hardwarex) - An open access scientific hardware journal.
 
 ## Other Lists
 - [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
