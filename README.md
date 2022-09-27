@@ -237,3 +237,4 @@ This list is for websites, services, software, tools and more: everything that y
 - [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
 - [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 - [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
+- [upb-lea/awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
