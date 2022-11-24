@@ -28,6 +28,7 @@ This list is for websites, services, software, tools and more: everything that y
   - [KiCad](#kicad)
   - [Eagle](#eagle)
 - [PCB Batching Services](#pcb-batching-services)
+- [DIY PCB](#diy-pcb)
 - [Part Search Engines](#part-search-engines)
 - [Project Sharing Platforms](#project-sharing-platforms)
 - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
@@ -141,6 +142,12 @@ This list is for websites, services, software, tools and more: everything that y
 - [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 - [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - Low cost PCB batching service that prides itself on its "dirty" quality.
 - [JLCPCB](https://jlcpcb.com/) - Low cost PCB batching service with inhouse low cost SMT service.
+
+## DIY PCB
+
+- [UV resist tutorial](https://www.instructables.com/id/How-to-make-a-printed-circuit-board-PCB-using-th/) - Step-by-step how to make your own PCBs with a printer, chemicals, UV resist boards and a UV box.
+- [Drill your own PCB holes](https://www.instructables.com/id/Make-your-own-PCBs-on-an-inexpensive-desktop-CNC-m/) - Equipment and software needed to drill PCBs.
+- [Make your own multilayer boards](https://www.instructables.com/id/Flexible-Double-Layer-OR-Multi-Layer-PCB/) - How to assemble multiple layer boards and connect vias. (Requires drilling.)
 
 ## Part Search Engines
 - [Octopart](https://octopart.com) - Probably the most well known part search engine.
