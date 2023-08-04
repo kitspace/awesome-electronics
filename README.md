@@ -238,7 +238,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
 - [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
 - [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
-- [TCAD Central](https://tcad.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
+- [TCAD Central](https://tcadcentral.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
 - [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
 - [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 - [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
