@@ -185,6 +185,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Hackster.io](https://www.hackster.io/news) - Another blog covering electronics.
 - [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
 - [N-O-D-E](https://n-o-d-e.net/) - Blog about DIY electronics, hardware, and technology.
+- [DerReparierer](https://social.tchncs.de/@derreparierer) - Blog about repairing electronic devices, including [git repository with repairs](https://codeberg.org/derreparierer/derreparierer).
 
 
 ## Forums
