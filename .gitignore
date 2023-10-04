@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules/
+
+# awesome_bot
+ab-results-*

@@ -1,9 +1,11 @@
 {
   "name": "awesome-electronics",
   "scripts": {
-    "toc": "markdown-toc README.md -i"
+    "toc": "markdown-toc README.md -i --bullets=-",
+    "lint": "awesome-lint"
   },
-  "dependencies": {
-    "markdown-toc": "^1.1.0"
+  "devDependencies": {
+    "markdown-toc": "^1.1.0",
+    "awesome-lint": "^0.12.1"
   }
 }
