@@ -17,6 +17,7 @@ This list is for websites, services, software, tools and more: everything that y
   - [Theory and Courses](#theory-and-courses)
   - [University Course Archives](#university-course-archives)
 - [Documentation](#documentation)
+- [Repairing electronic devices](#repairing-electronic-devices)
 - [Simulators](#simulators)
   - [Analog and Mixed Signal Circuit Simulators](#analog-and-mixed-signal-circuit-simulators)
   - [Verilog HDL Simulators](#verilog-hdl-simulators)
@@ -71,6 +72,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [Tabula](http://tabula.ondata.it/) - Extract tabular data from a pdf, very useful for extracting pin tables or part characteristics from datasheets.
 - [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
 - [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
+
+## Repairing electronic devices
+- [DerReparierer](https://codeberg.org/derreparierer/derreparierer) - Repairing electronic devices
 
 ## Simulators
 
@@ -185,7 +189,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Hackster.io](https://www.hackster.io/news) - Another blog covering electronics.
 - [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
 - [N-O-D-E](https://n-o-d-e.net/) - Blog about DIY electronics, hardware, and technology.
-- [DerReparierer](https://social.tchncs.de/@derreparierer) - Blog about repairing electronic devices, including [git repository with repairs](https://codeberg.org/derreparierer/derreparierer).
 
 
 ## Forums
