@@ -90,6 +90,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
 - [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
 - [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+- [gdsfactory](https://gdsfactory.github.io/gdsfactory/) - Open Source Python library designed for crafting chips (Photonics, Analog, Quantum, MEMs, and more), 3D printed objects, and PCBs.
+- [gdsfactory plugins](https://gdsfactory.github.io/gplugins) - Plugins for Simulating Analog, RF and Photonics circuits.
+- [sax](https://flaport.github.io/sax/) - Autograd and XLA for S-parameters - a scatter parameter circuit simulator and optimizer for the frequency domain based on JAX.
 
 ### Verilog HDL Simulators
 
