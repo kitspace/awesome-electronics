@@ -33,6 +33,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
 - [Miscellaneous Software Projects](#miscellaneous-software-projects)
 - [Development Board Retailers](#development-board-retailers)
+- [PCB manufacturers](#pcb-manufacturers)
 - [Blogs](#blogs)
 - [Forums](#forums)
   - [Discussion](#discussion)
@@ -177,6 +178,10 @@ This list is for websites, services, software, tools and more: everything that y
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
 - [Adafruit](https://www.adafruit.com/) - Another retailer and designer with excellent selection and tutorials.
 - [Tindie](https://www.tindie.com) - Marketplace for electronics makers to sell low volume batches of their own designs.
+
+## PCB manufacturers
+- [PCB way](https://www.pcbway.com/) - PCBWay PCB Prototype the Easy Way.
+- [JLCPCB](https://jlcpcb.com/) - PCB Prototype & PCB Fabrication Manufacturer.
 
 ## Blogs
 - [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking with a whole staff of writers.
