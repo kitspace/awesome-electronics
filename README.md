@@ -143,6 +143,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
 - [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
+### Altium
+- [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
+
 
 ## PCB Batching Services
 - [PCBShopper](https://pcbshopper.com/) - Comparison service for quite a lot of different PCB batching and assembly services.
@@ -235,7 +238,6 @@ This list is for websites, services, software, tools and more: everything that y
 ## 3D Part Models
 - [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models.
 - [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login).
-- [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
 
 ## Other Lists
 - [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
