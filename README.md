@@ -124,6 +124,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [EasyEDA](https://easyeda.com/) - Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models.
 
 ## Paid EDA Packages
+- [Altium](https://www.altium.com/) - PCB Design Software & Tools.
 - [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
 
 ## CAD Specific
@@ -143,6 +144,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 - [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
 - [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
+
+### Altium
+- [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
 
 
 ## PCB Batching Services
