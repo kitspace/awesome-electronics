@@ -157,6 +157,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Octopart](https://octopart.com) - Probably the most well known part search engine.
 - [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
 - [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
+- [Electronic Component Search Engine](https://componentsearchengine.com/) - Free access to schematic symbols, PCB footprints and 3D models.
 
 
 ## Project Sharing Platforms
