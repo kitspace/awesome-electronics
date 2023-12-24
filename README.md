@@ -24,6 +24,7 @@ This list is for websites, services, software, tools and more: everything that y
   - [Online](#online)
   - [Installable](#installable)
 - [Free EDA Packages](#free-eda-packages)
+- [Paid EDA Packages](#paid-eda-packages)
 - [CAD Specific](#cad-specific)
   - [KiCad](#kicad)
   - [Eagle](#eagle)
@@ -120,6 +121,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
 - [Horizon EDA](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
 - [EasyEDA](https://easyeda.com/) - Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models.
+
+## Paid EDA Packages
+- [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
 
 ## CAD Specific
 
