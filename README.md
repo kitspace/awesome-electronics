@@ -172,6 +172,7 @@ This list is for websites, services, software, tools and more: everything that y
 ## Miscellaneous Software Projects
 - [SnapEDA](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
 - [Language PCB](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
+- [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
