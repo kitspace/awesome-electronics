@@ -111,6 +111,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
 - [KiCAD Gerbview](https://kicad.org/) - The KiCAD gerber viewer.
 - [GC-Prevue](http://www.graphicode.com/GC-Prevue_Gerber_Viewer) - Commercial with free version. Can handle some gerbers better than Gerbv and KiCAD.
+- [ZofZPCB](https://www.zofzpcb.com/) - FREE 3D Gerber Viewer.
 
 ## Free EDA Packages
 - [KiCad](https://kicad.org/) - Open source EDA package with push and shove router, differential pairs and much more.
