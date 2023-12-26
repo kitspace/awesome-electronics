@@ -3,7 +3,7 @@ name: Update Table of Contents
 on:
   push:
     branches:
-      - main  # Change this to your main branch name if different
+      - master
     paths:
       - 'README.md'
 
@@ -24,8 +24,8 @@ jobs:
       run: |
         git diff --exit-code README.md # if README.md was modified, it returns 1 (failure). If it wasn't modified, it returns 0 (success)
 
-      # if: steps.check-changes.outcome == 'failure'
     - name: Commit and Push Changes
+      if: steps.check-changes.outcome == 'failure'
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
