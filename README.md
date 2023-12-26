@@ -10,45 +10,8 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Contents
 
-<!-- toc -->
-
-- [Awesome Electronics ](#awesome-electronics-)
-  - [Contents](#contents)
-  - [Learning](#learning)
-    - [Technical Tutorials](#technical-tutorials)
-    - [Courses](#courses)
-    - [Theory](#theory)
-    - [University Course Archives](#university-course-archives)
-  - [Documentation](#documentation)
-  - [Simulators](#simulators)
-    - [Analog and Mixed Signal Circuit Simulators](#analog-and-mixed-signal-circuit-simulators)
-    - [Verilog HDL Simulators](#verilog-hdl-simulators)
-  - [Gerber Viewers](#gerber-viewers)
-    - [Online](#online)
-    - [Installable](#installable)
-  - [Free EDA Packages](#free-eda-packages)
-  - [Paid EDA Packages](#paid-eda-packages)
-  - [CAD Specific](#cad-specific)
-    - [KiCad](#kicad)
-    - [Eagle](#eagle)
-    - [Altium](#altium)
-  - [PCB Batching Services](#pcb-batching-services)
-  - [Part Search Engines](#part-search-engines)
-  - [Project Sharing Platforms](#project-sharing-platforms)
-  - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
-  - [Miscellaneous Software Projects](#miscellaneous-software-projects)
-  - [Development Board Retailers](#development-board-retailers)
-  - [Blogs](#blogs)
-  - [Forums](#forums)
-    - [Discussion](#discussion)
-    - [Help](#help)
-  - [Podcasts](#podcasts)
-  - [Videos](#videos)
-  - [Subscription Kit Services](#subscription-kit-services)
-  - [3D Part Models](#3d-part-models)
-  - [Other Lists](#other-lists)
-
-<!-- tocstop -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 ## Learning
 
