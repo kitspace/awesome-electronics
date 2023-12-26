@@ -16,7 +16,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Run doctoc Docker Container
-      run: docker run --rm -v "$(pwd)":/app peterdavehello/npm-doctoc doctoc /app/README.md
+      run: docker run --rm -v "$(pwd)":/app PeterDaveHello/docker-doctoc doctoc /app/README.md
 
     - name: Check if README was modified
       id: check-changes
