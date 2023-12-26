@@ -1,4 +1,5 @@
 name: Update Table of Contents
+# for more info, see https://github.com/PeterDaveHello/docker-doctoc
 
 on:
   push:
