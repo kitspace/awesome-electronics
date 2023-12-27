@@ -27,7 +27,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Forums](#forums)
 - [Podcasts](#podcasts)
 - [Subscription Kit Services](#subscription-kit-services)
-- [3D Part Models](#3d-part-models)
 - [Other Lists](#other-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
