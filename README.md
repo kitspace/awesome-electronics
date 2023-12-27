@@ -184,6 +184,7 @@ This list is for websites, services, software, tools and more: everything that y
 ## Part Search Engines
 
 | Name | Description | Purchase link | Datasheet | 3D model | Footprint model | Schematic symbol |
+| --- | --- | --- | --- | --- | --- | --- |
 | [Octopart](https://octopart.com) | Probably the most well known part search engine. | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Findchips](https://www.findchips.com/) | Part search from Supply Frame. | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: | :x: |
 | [Parts.io](https://parts.io/) | Another search engine from Supply Frame geared towards discovering new parts. | :heavy_check_mark: | :x: | :x: | :x: | :x: |
