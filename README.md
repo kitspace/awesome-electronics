@@ -26,7 +26,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Blogs](#blogs)
 - [Forums](#forums)
 - [Podcasts](#podcasts)
-- [Videos](#videos)
 - [Subscription Kit Services](#subscription-kit-services)
 - [3D Part Models](#3d-part-models)
 - [Other Lists](#other-lists)
