@@ -82,6 +82,26 @@ This list is for websites, services, software, tools and more: everything that y
 - [Lessons In Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/) - Free high quality textbooks and worksheets with emphasis on theory, simulation, and the socratic method.
 - [Ultimate Electronics: Practical Circuit Design and Analysis](https://ultimateelectronicsbook.com/) - Free online book with interactive schematics & simulations by CircuitLab (under development).
 
+### Blogs
+- [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking with a whole staff of writers.
+- [bunniestudios.com](https://www.bunniestudios.com) - Andrew 'Bunnie' Huang covers hardware hacking, open hardware, manufacturing and more.
+- [Bald Engineer](https://www.baldengineer.com) - Project logs, tutorials and articles about electronics and embedded software by James Lewis.
+- [Rheingold Heavy](https://rheingoldheavy.com) - More project logs, tutorials and articles about electronics and embedded software, these ones by Dan Hienzsch.
+- [Hackster.io](https://www.hackster.io/news) - Another blog covering electronics.
+- [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
+- [N-O-D-E](https://n-o-d-e.net/) - Blog about DIY electronics, hardware, and technology.
+
+### Forums
+
+#### Discussion
+- [EEVBlog forum](https://www.eevblog.com/forum/) - Probably the largest and most active forum to discuss Electronic Engineering topics.
+- [/r/electronics](https://www.reddit.com/r/electronics/) and [/r/ECE](https://www.reddit.com/r/ECE/) are the two most active sub-reddits for EE topics.
+
+#### Help
+- [/r/askelectronics](https://www.reddit.com/r/AskElectronics/) - Sub-reddit dedicated to help on electronics topics.
+- [Electronics Stack Exchange](https://electronics.stackexchange.com) - Question and answer site for electronics running on the popular Stack Overflow service.
+- [EEVBlog beginners forum](https://www.eevblog.com/forum/beginners/) - Good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
+
 ### EDA Specific
 
 #### KiCad
@@ -187,27 +207,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
 - [Adafruit](https://www.adafruit.com/) - Another retailer and designer with excellent selection and tutorials.
 - [Tindie](https://www.tindie.com) - Marketplace for electronics makers to sell low volume batches of their own designs.
-
-## Blogs
-- [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking with a whole staff of writers.
-- [bunniestudios.com](https://www.bunniestudios.com) - Andrew 'Bunnie' Huang covers hardware hacking, open hardware, manufacturing and more.
-- [Bald Engineer](https://www.baldengineer.com) - Project logs, tutorials and articles about electronics and embedded software by James Lewis.
-- [Rheingold Heavy](https://rheingoldheavy.com) - More project logs, tutorials and articles about electronics and embedded software, these ones by Dan Hienzsch.
-- [Hackster.io](https://www.hackster.io/news) - Another blog covering electronics.
-- [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
-- [N-O-D-E](https://n-o-d-e.net/) - Blog about DIY electronics, hardware, and technology.
-
-
-## Forums
-
-### Discussion
-- [EEVBlog forum](https://www.eevblog.com/forum/) - Probably the largest and most active forum to discuss Electronic Engineering topics.
-- [/r/electronics](https://www.reddit.com/r/electronics/) and [/r/ECE](https://www.reddit.com/r/ECE/) are the two most active sub-reddits for EE topics.
-
-### Help
-- [/r/askelectronics](https://www.reddit.com/r/AskElectronics/) - Sub-reddit dedicated to help on electronics topics.
-- [Electronics Stack Exchange](https://electronics.stackexchange.com) - Question and answer site for electronics running on the popular Stack Overflow service.
-- [EEVBlog beginners forum](https://www.eevblog.com/forum/beginners/) - Good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
 
 
 ## Podcasts
