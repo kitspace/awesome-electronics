@@ -34,7 +34,7 @@ This list is for websites, services, software, tools and more: everything that y
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) | Free | Win, Mac | The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice). | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: |
 | [Proteus](https://www.labcenter.com/) | Paid | Win | PCB Design and Circuit Simulator Software. | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| [Altium](https://www.altium.com/) | Paid | Win | A fully-featured editor for schematics that includes powerful collaboration capabilities and a rich set of schematic capture tools to quickly create, edit, simulate, and document schematics. | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Altium](https://www.altium.com/) | Paid | Win | A fully-featured editor for schematics that includes a rich set of schematic capture tools to quickly create, edit, simulate, and document schematics. Contains a lot of [Manufacture libraries](https://www.altium.com/documentation/other_installers#!libraries). | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [KiCad](https://kicad.org/) | Free | Win, Linux | One of the most popular Open source EDA package with push and shove router, differential pairs and much more. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Eagle](https://www.autodesk.com/products/eagle/overview) | Freemium | Win, Linux, Mac | A popular EDA packages with (board size restricted) free version. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) | Free | Web | Free, [open source](https://github.com/sharpie7/circuitjs1) online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad). | :heavy_check_mark: | :x: | :x: | :x: |
@@ -176,15 +176,14 @@ This list is for websites, services, software, tools and more: everything that y
 - [PCBWay](https://www.pcbway.com/) - Low cost PCB batching service with PCBA, CNC and 3D-Printing services.
 
 ## Part Search Engines
-- [Octopart](https://octopart.com) - Probably the most well known part search engine.
-- [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
-- [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
-- [Electronic Component Search Engine](https://componentsearchengine.com/) - Free access to schematic symbols, PCB footprints and 3D models.
-- [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
 
-- [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models.
-- [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login).
-
+| Name | Description | Purchase link | Datasheet | 3D model | Footprint model | Schematic symbol |
+| [Octopart](https://octopart.com) | Probably the most well known part search engine. | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| [Findchips](https://www.findchips.com/) | Part search from Supply Frame. | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: | :x: |
+| [Parts.io](https://parts.io/) | Another search engine from Supply Frame geared towards discovering new parts. | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+| [Electronic Component Search Engine](https://componentsearchengine.com/) | Free access to schematic symbols, PCB footprints and 3D models. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| [3D ContentCentral](https://www.3dcontentcentral.com) | Website dedicated to 3D models of parts (requires login). | :x: | :x: | :heavy_check_mark: | :x: | :x: |
+| [GrabCad](https://grabcad.com/library/electronic-components-1) | Community supported database of 3D models with a large number of electronic component models. | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 
 ## Project Sharing Platforms
 - [Kitspace](https://kitspace.org) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
