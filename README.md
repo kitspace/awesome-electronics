@@ -57,7 +57,7 @@ This list is for websites, services, software, tools and more: everything that y
 | [DipTrace](https://diptrace.com) | Free | Win, Mac | Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Horizon EDA](https://github.com/horizon-eda/horizon) | Free | Linux |  A free and open source EDA tool with the focus on shortcut operation. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 
-## EDA Specific
+## EDA-specific Resources
 
 ### KiCad
 - [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools)
