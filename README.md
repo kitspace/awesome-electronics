@@ -76,7 +76,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
 - [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
-## Altium
+### Altium
 
 - [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
 
