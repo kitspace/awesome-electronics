@@ -15,7 +15,6 @@ This list is for websites, services, software, tools and more: everything that y
 
 - [EDAs](#edas)
 - [EDA Specific](#eda-specific)
-- [Altium](#altium)
 - [Learning](#learning)
 - [Documentation](#documentation)
 - [Gerber Viewers](#gerber-viewers)
