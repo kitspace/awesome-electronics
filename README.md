@@ -34,7 +34,7 @@ This list is for websites, services, software, tools and more: everything that y
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) | Free | Win, Mac | The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice). | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: |
 | [Proteus](https://www.labcenter.com/) | Paid | Win | PCB Design and Circuit Simulator Software. | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| [Altium](https://www.altium.com/) | Paid | Win | A fully-featured editor for schematics that includes a rich set of schematic capture tools to quickly create, edit, simulate, and document schematics. Contains a lot of [Manufacture libraries](https://www.altium.com/documentation/other_installers#!libraries). | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Altium](https://www.altium.com/) | Paid | Win | A fully-featured editor for schematics that includes a rich set of schematic capture tools to quickly create, edit, simulate, and document schematics. | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [KiCad](https://kicad.org/) | Free | Win, Linux | One of the most popular Open source EDA package with push and shove router, differential pairs and much more. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Eagle](https://www.autodesk.com/products/eagle/overview) | Freemium | Win, Linux, Mac | A popular EDA packages with (board size restricted) free version. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) | Free | Web | Free, [open source](https://github.com/sharpie7/circuitjs1) online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad). | :heavy_check_mark: | :x: | :x: | :x: |
@@ -55,6 +55,28 @@ This list is for websites, services, software, tools and more: everything that y
 | [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) | Free | Win | Free EDA package without restrictions, sponserd by RS Components. | :x: | :x: | :x: | :heavy_check_mark: |
 | [DipTrace](https://diptrace.com) | Free | Win, Mac | Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Horizon EDA](https://github.com/horizon-eda/horizon) | Free | Linux |  A free and open source EDA tool with the focus on shortcut operation. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+
+## EDA Specific
+
+### KiCad
+- [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools)
+- [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
+- [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
+- [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
+- [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+- [Cheatsheet](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
+- [Footprint Collection](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
+- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+- [KiBot](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+
+### Eagle
+- [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
+- [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
+- [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
+
+## Altium
+
+- [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
 
 ## Learning
 
@@ -105,24 +127,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [/r/askelectronics](https://www.reddit.com/r/AskElectronics/) - Sub-reddit dedicated to help on electronics topics.
 - [Electronics Stack Exchange](https://electronics.stackexchange.com) - Question and answer site for electronics running on the popular Stack Overflow service.
 - [EEVBlog beginners forum](https://www.eevblog.com/forum/beginners/) - Good place for beginner questions, other sub-forums on EEVblog should be suitable for questions on more advanced topics.
-
-### EDA Specific
-
-#### KiCad
-- [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools)
-- [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
-- [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
-- [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
-- [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
-- [Cheatsheet](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
-- [Footprint Collection](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
-- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
-- [KiBot](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
-
-#### Eagle
-- [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
-- [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
-- [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
 ### University Course Archives
 
