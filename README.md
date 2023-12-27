@@ -89,6 +89,13 @@ This list is for websites, services, software, tools and more: everything that y
 - [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
 - [N-O-D-E](https://n-o-d-e.net/) - Blog about DIY electronics, hardware, and technology.
 
+### Podcasts
+- [The Amp Hour](https://theamphour.com/) - Off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
+- [Embedded.fm](https://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests.
+- [The Spark Gap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
+- [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - Weekly podcast where Parker and Stephen from MacroFab discuss EE topics and industry news.
+- [The Engineering Commons Podcast](http://theengineeringcommons.com/) - Covers general engineering topics from mechanical to electrical.
+
 ### Forums
 
 #### Discussion
@@ -205,14 +212,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
 - [Adafruit](https://www.adafruit.com/) - Another retailer and designer with excellent selection and tutorials.
 - [Tindie](https://www.tindie.com) - Marketplace for electronics makers to sell low volume batches of their own designs.
-
-
-## Podcasts
-- [The Amp Hour](https://theamphour.com/) - Off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
-- [Embedded.fm](https://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests.
-- [The Spark Gap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
-- [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - Weekly podcast where Parker and Stephen from MacroFab discuss EE topics and industry news.
-- [The Engineering Commons Podcast](http://theengineeringcommons.com/) - Covers general engineering topics from mechanical to electrical.
 
 ## Subscription Kit Services
 - [AdaBox](https://www.adafruit.com/adabox/) - Curated Adafruit products, unique collectibles, and exclusive discounts. All delivered quarterly.
