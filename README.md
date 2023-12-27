@@ -23,8 +23,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
 - [Miscellaneous Software Projects](#miscellaneous-software-projects)
 - [Development Board Retailers](#development-board-retailers)
-- [Blogs](#blogs)
-- [Forums](#forums)
 - [Podcasts](#podcasts)
 - [Subscription Kit Services](#subscription-kit-services)
 - [Other Lists](#other-lists)
