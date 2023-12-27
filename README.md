@@ -17,8 +17,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Learning](#learning)
 - [Documentation](#documentation)
 - [Gerber Viewers](#gerber-viewers)
-- [Free EDA Packages](#free-eda-packages)
-- [Paid EDA Packages](#paid-eda-packages)
 - [PCB Batching Services](#pcb-batching-services)
 - [Part Search Engines](#part-search-engines)
 - [Project Sharing Platforms](#project-sharing-platforms)
