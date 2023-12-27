@@ -6,20 +6,28 @@ Electronic Engineering (EE) is the practice of understanding, designing and buil
 
 Experimenting with and building electronic circuits is also a popular hobby and many professional resources are often equally applicable to hobbyists and vice versa.
 
-This list is for websites, services, software, tools and more: everything that you think is awesome in the world of Electronic Engineering. If you have anything to add please follow the instructions in [contributing.md](contributing.md). 
+This list is for websites, services, software, tools and more: everything that you think is awesome in the world of Electronic Engineering. If you have anything to add please follow the instructions in [contributing.md](contributing.md).
 
 ## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [EDAs](#edas)
 - [Learning](#learning)
+  - [Technical Tutorials](#technical-tutorials)
+  - [Courses](#courses)
+  - [Theory](#theory)
+  - [EDA Specific](#eda-specific)
+    - [KiCad](#kicad)
+    - [Eagle](#eagle)
+  - [University Course Archives](#university-course-archives)
 - [Documentation](#documentation)
-- [Simulators](#simulators)
 - [Gerber Viewers](#gerber-viewers)
+  - [Online](#online)
+  - [Installable](#installable)
 - [Free EDA Packages](#free-eda-packages)
 - [Paid EDA Packages](#paid-eda-packages)
-- [CAD Specific](#cad-specific)
 - [PCB Batching Services](#pcb-batching-services)
 - [Part Search Engines](#part-search-engines)
 - [Project Sharing Platforms](#project-sharing-platforms)
@@ -28,6 +36,8 @@ This list is for websites, services, software, tools and more: everything that y
 - [Development Board Retailers](#development-board-retailers)
 - [Blogs](#blogs)
 - [Forums](#forums)
+  - [Discussion](#discussion)
+  - [Help](#help)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
 - [Subscription Kit Services](#subscription-kit-services)
@@ -35,6 +45,25 @@ This list is for websites, services, software, tools and more: everything that y
 - [Other Lists](#other-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## EDAs
+
+| Name | Access Level | OS | Desciption | Simulation | HDL & Synthesis | Verification | PCB design |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) | Free | Win, Mac | The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice). | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: |
+| [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) | Free | Web | Free, [open source](https://github.com/sharpie7/circuitjs1) online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad). | :heavy_check_mark: | :x: | :x: | :x: |
+| [EveryCircuit](https://everycircuit.com) | Freemium | Web | Free to try online, visual, interactive circuit simulator for simpler circuits. | :heavy_check_mark: | :x: | :x: | :x: |
+| [Qucs](http://qucs.sourceforge.net/) | Free | Win, Mac, Linux | Open source, cross-platform, non-SPICE-based circuit simulator, with with S-parameter and Harmonic Balance capability. | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: |
+| [Qucs-S](https://ra3xdh.github.io/) | Free | Win, Mac, Linux | Open source fork of Qucs using SPICE for simulation. | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: |
+| [QucsStudio](http://qucsstudio.de/) | Free | Win | Closed-source fork of Qucs with a similar interface, new engine, and more features. | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: |
+| [Proteus](https://www.labcenter.com/) | Paid | Win | PCB Design and Circuit Simulator Software. | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Altium](https://www.altium.com/) | Paid | Win | A fully-featured editor for schematics that includes powerful collaboration capabilities and a rich set of schematic capture tools to quickly create, edit, simulate, and document schematics. | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Verilator](https://www.veripool.org/wiki/verilator) | Free | Win, Linux | Open source Verilog compiler. Test benches are in C++ or SystemC. Very fast, but limted to 2-state, cycle-based simulation, and synthesizeable code only. | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| [Icarus Verilog](http://iverilog.icarus.com/) | Free | Win, Linux | Open source verilog interpreter. Test benches are in behavioral verilog. Simulation is 4-state, and event-based. | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| [Open Circuit Design Software](http://opencircuitdesign.com) | Free | Linux | Open Source, full EDA suite chip design suite, focused on keeping up with commercial tools. | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| [CppSim](https://www.cppsim.com/) | Free | Win, Mac, Linux | Free, open source circuit simulator that leverages the C++ language to achieve very fast simulation times. | :heavy_check_mark: | :x: | :x: | :heavy_check_mark: |
+| [TINA-TI](http://www.ti.com/tool/TINA-TI) | Free | Win | Exclusive [DesignSoft-TINA](https://www.tina.com) build for Texas Instruments, bundled with Texas Instruments Models. | :heavy_check_mark: | :x: | :x: | :x: |
+| [iCircuit](http://icircuitapp.com/) | Free | Web | Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis. | :heavy_check_mark: | :x: | :x: | :x: |
 
 ## Learning
 
@@ -59,6 +88,23 @@ This list is for websites, services, software, tools and more: everything that y
 - [Lessons In Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/) - Free high quality textbooks and worksheets with emphasis on theory, simulation, and the socratic method.
 - [Ultimate Electronics: Practical Circuit Design and Analysis](https://ultimateelectronicsbook.com/) - Free online book with interactive schematics & simulations by CircuitLab (under development).
 
+### EDA Specific
+
+#### KiCad
+- [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools)
+- [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
+- [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
+- [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
+- [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+- [Cheatsheet](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
+- [Footprint Collection](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
+- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+- [KiBot](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+
+#### Eagle
+- [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
+- [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
+- [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
 ### University Course Archives
 
@@ -71,31 +117,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Tabula](http://tabula.ondata.it/) - Extract tabular data from a pdf, very useful for extracting pin tables or part characteristics from datasheets.
 - [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
 - [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
-
-## Simulators
-
-### Analog and Mixed Signal Circuit Simulators
-
-- [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice).
-- [ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
-- [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) - Free, open source online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad).
-- [EveryCircuit](https://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
-- [Qucs](http://qucs.sourceforge.net/) - Open source, cross-platform, non-SPICE-based circuit simulator, with with S-parameter and Harmonic Balance capability.
-- [Qucs-S](https://ra3xdh.github.io/) - Open source fork of Qucs using SPICE for simulation.
-- [QucsStudio](http://qucsstudio.de/) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
-- [Open Circuit Design Software](http://opencircuitdesign.com) - Open Source, full EDA suite chip design suite, focused on keeping up with commercial tools.
-- [TINA-TI](http://www.ti.com/tool/TINA-TI) - Exclusive [DesignSoft-TINA](https://www.tina.com) build for Texas Instruments, bundled with Texas Instruments Models.
-- [CppSim](https://www.cppsim.com/) - Free, open source circuit simulator that leverages the C++ language to achieve very fast simulation times.
-- [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
-- [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
-- [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
-- [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
-- [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
-
-### Verilog HDL Simulators
-
-- [Verilator](https://www.veripool.org/wiki/verilator) - Free, open source Verilog compiler. Test benches are in C++ or SystemC. Very fast, but limted to 2-state, cycle-based simulation, and synthesizeable code only.
-- [Icarus Verilog](http://iverilog.icarus.com/) - Free, open source verilog interpreter. Test benches are in behavioral verilog. Simulation is 4-state, and event-based.
 
 ## Gerber Viewers
 
@@ -124,30 +145,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [EasyEDA](https://easyeda.com/) - Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models.
 
 ## Paid EDA Packages
-- [Altium](https://www.altium.com/) - PCB Design Software & Tools.
 - [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
-
-## CAD Specific
-
-### KiCad
-- [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools)
-- [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
-- [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
-- [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
-- [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
-- [Cheatsheet](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
-- [Footprint Collection](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
-- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
-- [KiBot](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
-
-### Eagle
-- [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
-- [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
-- [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
-
-### Altium
-- [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
-
 
 ## PCB Batching Services
 - [PCBShopper](https://pcbshopper.com/) - Comparison service for quite a lot of different PCB batching and assembly services.
@@ -243,6 +241,7 @@ This list is for websites, services, software, tools and more: everything that y
 ## 3D Part Models
 - [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models.
 - [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login).
+- [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
 
 ## Other Lists
 - [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
