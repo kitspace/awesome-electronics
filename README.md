@@ -13,6 +13,26 @@ This list is for websites, services, software, tools and more: everything that y
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [EDAs](#edas)
+- [Learning](#learning)
+- [Documentation](#documentation)
+- [Gerber Viewers](#gerber-viewers)
+- [Free EDA Packages](#free-eda-packages)
+- [Paid EDA Packages](#paid-eda-packages)
+- [PCB Batching Services](#pcb-batching-services)
+- [Part Search Engines](#part-search-engines)
+- [Project Sharing Platforms](#project-sharing-platforms)
+- [Inventory Management and Purchasing](#inventory-management-and-purchasing)
+- [Miscellaneous Software Projects](#miscellaneous-software-projects)
+- [Development Board Retailers](#development-board-retailers)
+- [Blogs](#blogs)
+- [Forums](#forums)
+- [Podcasts](#podcasts)
+- [Videos](#videos)
+- [Subscription Kit Services](#subscription-kit-services)
+- [3D Part Models](#3d-part-models)
+- [Other Lists](#other-lists)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## EDAs
