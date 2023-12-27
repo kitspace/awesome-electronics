@@ -14,7 +14,7 @@ This list is for websites, services, software, tools and more: everything that y
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [EDAs](#edas)
-- [EDA Specific](#eda-specific)
+- [EDA-specific Resources](#eda-specific-resources)
 - [Learning](#learning)
 - [Documentation](#documentation)
 - [Gerber Viewers](#gerber-viewers)
