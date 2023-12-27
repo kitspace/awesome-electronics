@@ -40,19 +40,28 @@ This list is for websites, services, software, tools and more: everything that y
 | Name | Access Level | OS | Desciption | Simulation | HDL & Synthesis | Verification | PCB design |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) | Free | Win, Mac | The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice). | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: |
+| [Proteus](https://www.labcenter.com/) | Paid | Win | PCB Design and Circuit Simulator Software. | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Altium](https://www.altium.com/) | Paid | Win | A fully-featured editor for schematics that includes powerful collaboration capabilities and a rich set of schematic capture tools to quickly create, edit, simulate, and document schematics. | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [KiCad](https://kicad.org/) | Free | Win, Linux | One of the most popular Open source EDA package with push and shove router, differential pairs and much more. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Eagle](https://www.autodesk.com/products/eagle/overview) | Freemium | Win, Linux, Mac | A popular EDA packages with (board size restricted) free version. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) | Free | Web | Free, [open source](https://github.com/sharpie7/circuitjs1) online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad). | :heavy_check_mark: | :x: | :x: | :x: |
 | [EveryCircuit](https://everycircuit.com) | Freemium | Web | Free to try online, visual, interactive circuit simulator for simpler circuits. | :heavy_check_mark: | :x: | :x: | :x: |
+| [Altium CircuitMaker](https://circuitmaker.com/) | Free | Win | Free package from the maker of the go to pro software. | :x: | :x: | :x: | :heavy_check_mark: |
+| [LibrePCB](https://librepcb.org/) | Free | Win, Linux, Mac | A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [EasyEDA](https://easyeda.com/) | Free | Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Qucs](http://qucs.sourceforge.net/) | Free | Win, Mac, Linux | Open source, cross-platform, non-SPICE-based circuit simulator, with with S-parameter and Harmonic Balance capability. | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: |
 | [Qucs-S](https://ra3xdh.github.io/) | Free | Win, Mac, Linux | Open source fork of Qucs using SPICE for simulation. | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: |
 | [QucsStudio](http://qucsstudio.de/) | Free | Win | Closed-source fork of Qucs with a similar interface, new engine, and more features. | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: |
-| [Proteus](https://www.labcenter.com/) | Paid | Win | PCB Design and Circuit Simulator Software. | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| [Altium](https://www.altium.com/) | Paid | Win | A fully-featured editor for schematics that includes powerful collaboration capabilities and a rich set of schematic capture tools to quickly create, edit, simulate, and document schematics. | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Verilator](https://www.veripool.org/wiki/verilator) | Free | Win, Linux | Open source Verilog compiler. Test benches are in C++ or SystemC. Very fast, but limted to 2-state, cycle-based simulation, and synthesizeable code only. | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | [Icarus Verilog](http://iverilog.icarus.com/) | Free | Win, Linux | Open source verilog interpreter. Test benches are in behavioral verilog. Simulation is 4-state, and event-based. | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | [Open Circuit Design Software](http://opencircuitdesign.com) | Free | Linux | Open Source, full EDA suite chip design suite, focused on keeping up with commercial tools. | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [CppSim](https://www.cppsim.com/) | Free | Win, Mac, Linux | Free, open source circuit simulator that leverages the C++ language to achieve very fast simulation times. | :heavy_check_mark: | :x: | :x: | :heavy_check_mark: |
 | [TINA-TI](http://www.ti.com/tool/TINA-TI) | Free | Win | Exclusive [DesignSoft-TINA](https://www.tina.com) build for Texas Instruments, bundled with Texas Instruments Models. | :heavy_check_mark: | :x: | :x: | :x: |
 | [iCircuit](http://icircuitapp.com/) | Free | Web | Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis. | :heavy_check_mark: | :x: | :x: | :x: |
+| [gEDA](http://geda-project.org) | Free | Linux, Mac | Another open source package, good for people that like scripting and makefiles, Linux and BSD only. | :x: | :x: | :x: | :heavy_check_mark: |
+| [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) | Free | Win | Free EDA package without restrictions, sponserd by RS Components. | :x: | :x: | :x: | :heavy_check_mark: |
+| [DipTrace](https://diptrace.com) | Free | Win, Mac | Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Horizon EDA](https://github.com/horizon-eda/horizon) | Free | Linux |  A free and open source EDA tool with the focus on shortcut operation. | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 
 ## Learning
 
@@ -121,20 +130,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [KiCAD Gerbview](https://kicad.org/) - The KiCAD gerber viewer.
 - [GC-Prevue](http://www.graphicode.com/GC-Prevue_Gerber_Viewer) - Commercial with free version. Can handle some gerbers better than Gerbv and KiCAD.
 - [ZofZPCB](https://www.zofzpcb.com/) - FREE 3D Gerber Viewer.
-
-## Free EDA Packages
-- [KiCad](https://kicad.org/) - Open source EDA package with push and shove router, differential pairs and much more.
-- [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
-- [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
-- [Altium CircuitMaker](https://circuitmaker.com/) - Free package from the maker of the go to pro software.
-- [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
-- [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
-- [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
-- [Horizon EDA](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
-- [EasyEDA](https://easyeda.com/) - Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models.
-
-## Paid EDA Packages
-- [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
 
 ## PCB Batching Services
 - [PCBShopper](https://pcbshopper.com/) - Comparison service for quite a lot of different PCB batching and assembly services.
