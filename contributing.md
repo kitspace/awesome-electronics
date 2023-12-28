@@ -81,6 +81,8 @@ Single-featured EDAs with a small community. It lacks more complex functionaliti
 
 ### ${\color{green}C}$
 
-Old and single-featured EDAs with a rarely active software development. EDAs in this tier tend to become obsolete throughout.
+Old and single-featured EDAs with a rarely active software development. EDAs in this tier tend to become obsolete throughout the time.
 
 ### ${\color{light blue}D}$
+
+Abandoned EDA project with an obsolete features. These EDAs are listed for historical reasons, as they were relevant in the past.
