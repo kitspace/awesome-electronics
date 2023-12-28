@@ -77,12 +77,16 @@ Very popular, with a large community, and with a very active and accelerated sof
 
 ### ${\color{yellow}B}$
 
-Single-featured EDAs with a small community. It lacks more complex functionalities, and the software development is not very active. Additionally, it is usually used in a niche. Even though, the software can fully fullfil its taks and can be used for small- and medium-sized projects.
+A EDA with a small community yet and not so popular, but with a promising and very active software development. Software in this tier tends to grwo into tier ${\color{orange}A}$ as they get matured. They can have some nice features for more complex electronic projects, but they are usually more limited when compared to tier ${\color{orange}A}$ or ${\color{red}S}$.
 
 ### ${\color{green}C}$
 
-Old and single-featured EDAs with a rarely active software development. EDAs in this tier tend to become obsolete throughout the time.
+Single-featured EDAs with a small community. It lacks more complex functionalities, and the software development is not very active. Additionally, it is usually used in a niche. EDAs in this tier are not expected to grow much further than they already are. Even though, the software can fully fullfil its taks and can be used for small- and medium-sized projects.
 
 ### ${\color{light blue}D}$
+
+Old and single-featured EDAs with a rarely active software development. EDAs in this tier tend to become obsolete throughout the time.
+
+### ${\color{purple}E}$
 
 Abandoned EDA projects with obsolete features. These EDAs are listed for historical reasons, as they were relevant in the past.
