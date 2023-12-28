@@ -39,6 +39,8 @@ You'll need a [GitHub account](https://github.com/join)!
 
 Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
 
+[Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+
 ## EDAs category description
 
 ### Simulation
@@ -68,5 +70,3 @@ It involves creating the physical layout of components and their interconnection
 ### ${\color{red}S}$
 
 Full-featured and professional-level EDAs, widely adoped in the industry for highly complex electronic projects. Highly active project, whether proprietary or open source.
-
-[Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
