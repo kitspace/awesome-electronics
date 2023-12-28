@@ -31,7 +31,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## EDAs
 
-| Name/Tier | Cost | OS | Desciption | Simu-lation | HDL & Syn-thesis | Verifi-cation | PCB design |
+| Name/[Tier](https://github.com/tapyu/to-delete-awesome-electronics/blob/master/contributing.md#tier-description) | Cost | OS | Desciption | Simu-lation | HDL & Syn-thesis | Verifi-cation | PCB design |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) $\color{red}S$ | Free | Win, Mac | The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice). | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: |
 | [Proteus](https://www.labcenter.com/) | Paid | Win | PCB Design and Circuit Simulator Software. | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
