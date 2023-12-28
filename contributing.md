@@ -73,7 +73,7 @@ Full-featured and professional-level EDAs, widely adopted in the industry for hi
 
 ### ${\color{orange}A}$
 
-Very popular, with a large community, and with a very active and accelerated software development. It contains advanced features but not so widely adopted in the industry as it lacks cutting-edge features. Even though, it can be adopted to complex electronic systems, usually as a free alternative to the ${\color{red}S}$ tier.
+Very popular, with a large community, and with a very active and accelerated software development. It contains advanced features but not so widely adopted in the industry as it lacks cutting-edge features. Even though, it can be adopted to complex electronic systems, usually as a free or OS-compatible alternative to the ${\color{red}S}$ tier.
 
 ### ${\color{yellow}B}$
 
