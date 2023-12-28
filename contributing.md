@@ -55,7 +55,13 @@ This involves checking the correctness and functionality of a design through var
 
 ### PCB design
 
-EDA tools with capabilities to PCB design, helping engineers create the layout of components on a printed circuit board.
+It involves creating the physical layout of components and their interconnections on a PCB (Printed Circuit Board). It translates the logical and functional aspects of a circuit design into a tangible, manufacturable form. Key aspects of EDA with PCB design capabilities are:
+
+- Component Placement: Such as integrated circuits (ICs), resistors, capacitors, and connectors, onto the PCB.
+- Routing: involves creating the copper traces that connect the pins of different components on the PCB. EDAs for PCB design can verifi aspects such as signal integrity, impedance matching, minimizing electromagnetic interference (EMI), and avoiding signal crosstalk.
+- Design Rule Check (DRC): EDA tools perform design rule checks to ensure that the layout adheres to the manufacturer's specifications and constraints.7
+- Gerber Files: After the PCB layout is complete and verified, Gerber files are generated. These files contain the information needed for PCB fabrication, including copper layers, silkscreen, and solder mask.
+- 3D Visualization: Some advanced EDA tools offer 3D visualization features, allowing designers to view the PCB layout in a three-dimensional space.
 
 ## Tier description
 
