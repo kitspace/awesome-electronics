@@ -41,5 +41,26 @@ Sometimes, a maintainer of an awesome list will ask you to edit your Pull Reques
 
 ## EDAs category description
 
+### Simulation
+
+EDA tools allow designers to simulate the behavior of electronic circuits before they are physically built. This helps in identifying and addressing potential issues and optimizing the performance of the design.
+
+### HDL & Synthesis
+
+EDA tools that support languages like Verilog and VHDL, which are used to describe the functionality and behavior of digital circuits and systems. The synthesis process involves translating a high-level description of a circuit into a netlist or a set of low-level components. This is a crucial step in the design flow, especially for digital circuits.
+
+### Verification
+
+This involves checking the correctness and functionality of a design through various techniques, including formal verification, timing, and testing. EDA tools are used to analyze the timing characteristics of a design, ensuring that signals meet the required timing constraints.
+
+### PCB design
+
+EDA tools with capabilities to PCB design, helping engineers create the layout of components on a printed circuit board.
+
+## Tier description
+
+### ${\color{red}S}$
+
+Full-featured and professional-level EDAs, widely adoped in the industry for highly complex electronic projects. Highly active project, whether proprietary or open source.
 
 [Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
