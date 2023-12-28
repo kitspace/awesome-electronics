@@ -77,7 +77,7 @@ Very popular, with a large community, and with a very active and accelerated sof
 
 ### ${\color{yellow}B}$
 
-Single-featured EDAs with a small community. It lacks more complex functionalities, and the software development is not very active. Additionally, it is usually used in a niche. Even though, the software can fully fullfil its taks can be used for small- and medium-sized projects.
+Single-featured EDAs with a small community. It lacks more complex functionalities, and the software development is not very active. Additionally, it is usually used in a niche. Even though, the software can fully fullfil its taks and can be used for small- and medium-sized projects.
 
 ### ${\color{green}C}$
 
