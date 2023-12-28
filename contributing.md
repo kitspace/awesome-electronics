@@ -76,3 +76,11 @@ Full-featured and professional-level EDAs, widely adopted in the industry for hi
 Very popular, with a large community, and with a very active and accelerated software development. It contains advanced features but not so widely adopted in the industry as it lacks cutting-edge features. Even though, it can be adopted to complex electronic systems, usually as a free alternative to the ${\color{red}S}$ tier.
 
 ### ${\color{yellow}B}$
+
+Single-featured EDAs with a small community. It lacks more complex functionalities, and the software development is not very active. Additionally, it is usually used in a niche. Even though, the software can fully fullfil its taks can be used for small- and medium-sized projects.
+
+### ${\color{green}C}$
+
+Old and single-featured EDAs with a rarely active software development. EDAs in this tier tend to become obsolete throughout.
+
+### ${\color{light blue}D}$
