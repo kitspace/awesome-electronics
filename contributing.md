@@ -77,7 +77,7 @@ Very popular, with a large community, and with a very active and accelerated sof
 
 ### ${\color{yellow}B}$
 
-A EDA with a small community yet and not so popular, but with a promising and very active software development. Software in this tier tends to grwo into tier ${\color{orange}A}$ as they get matured. They can have some nice features for more complex electronic projects, but they are usually more limited when compared to tier ${\color{orange}A}$ or ${\color{red}S}$.
+A EDA with a small community yet and not so popular, but with a promising and very active software development. Software in this tier tends to grow into tier ${\color{orange}A}$ as they get matured. They can have some nice features for more complex electronic projects, but they are usually more limited when compared to tier ${\color{orange}A}$ or ${\color{red}S}$.
 
 ### ${\color{green}C}$
 
