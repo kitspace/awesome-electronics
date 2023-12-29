@@ -69,7 +69,7 @@ It involves creating the physical layout of components and their interconnection
 
 ### ${\color{red}S}$
 
-Full-featured and professional-level EDAs, widely adopted in the industry for highly complex electronic projects. Highly active project, whether proprietary or open source.
+Full-featured and professional-level EDAs, widely adopted in the industry for highly complex electronic projects. Highly active software development, whether proprietary or open source.
 
 ### ${\color{orange}A}$
 
