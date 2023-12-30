@@ -89,4 +89,4 @@ Old and single-featured EDAs with a rarely active software development. EDAs in 
 
 ### ${\color{purple}E}$
 
-Abandoned EDA projects with obsolete features. These EDAs are listed for historical reasons, as they were relevant in the past.
+Abandoned or obsolete EDA projects. These EDAs are listed for historical reasons, as they were relevant in the past.
