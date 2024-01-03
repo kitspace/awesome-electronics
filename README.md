@@ -171,6 +171,8 @@ This list is for websites, services, software, tools and more: everything that y
 - [InventHub](https://inventhub.io/) - Git-based project hosting and collaboration platform for hardware development.
 - [CADLAB](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development.
 - [Eyrie](https://eyrie.io) - For viewing Eagle and KiCad designs online.
+- [WikiFactory](https://wikifactory.com/) - A project hosting and collaboration platform for product development. Filter for "electronics" for more electronics related projects.
+- [Instructables](https://www.instructables.com/) - A social site for sharing projects. Filter for "circuits" for more electronics related projects.
 
 
 ## Inventory Management and Purchasing
