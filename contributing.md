@@ -2,9 +2,16 @@
 
 ## Table of Contents
 
-- [Adding to this list](#adding-to-this-list)
-- [Adding something to an awesome list](#adding-something-to-an-awesome-list)
-- [Updating your Pull Request](#updating-your-pull-request)
+- [Contribution Guidelines](#contribution-guidelines)
+  - [Table of Contents](#table-of-contents)
+  - [Adding to this list](#adding-to-this-list)
+  - [Adding something to an awesome list](#adding-something-to-an-awesome-list)
+  - [Updating your Pull Request](#updating-your-pull-request)
+  - [EDAs category description](#edas-category-description)
+    - [Simulation](#simulation)
+    - [HDL \& Synthesis](#hdl--synthesis)
+    - [Verification](#verification)
+    - [PCB design](#pcb-design)
 
 ## Adding to this list
 
@@ -40,3 +47,27 @@ You'll need a [GitHub account](https://github.com/join)!
 Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
 
 [Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+
+## EDAs category description
+
+### Simulation
+
+EDA tools allow designers to simulate the behavior of electronic circuits before they are physically built. This helps in identifying and addressing potential issues and optimizing the performance of the design.
+
+### HDL & Synthesis
+
+EDA tools that support languages like Verilog and VHDL, which are used to describe the functionality and behavior of digital circuits and systems. The synthesis process involves translating a high-level description of a circuit into a netlist or a set of low-level components. This is a crucial step in the design flow, especially for digital circuits.
+
+### Verification
+
+This involves checking the correctness and functionality of a design through various techniques, including formal verification, timing, and testing. EDA tools are used to analyze the timing characteristics of a design, ensuring that signals meet the required timing constraints.
+
+### PCB design
+
+It involves creating the physical layout of components and their interconnections on a PCB (Printed Circuit Board). It translates the logical and functional aspects of a circuit design into a tangible, manufacturable form. Key aspects of EDA with PCB design capabilities are:
+
+- Component Placement: Such as integrated circuits (ICs), resistors, capacitors, and connectors, onto the PCB.
+- Routing: involves creating the copper traces that connect the pins of different components on the PCB. EDAs for PCB design can verifi aspects such as signal integrity, impedance matching, minimizing electromagnetic interference (EMI), and avoiding signal crosstalk.
+- Design Rule Check (DRC): EDA tools perform design rule checks to ensure that the layout adheres to the manufacturer's specifications and constraints.7
+- Gerber Files: After the PCB layout is complete and verified, Gerber files are generated. These files contain the information needed for PCB fabrication, including copper layers, silkscreen, and solder mask.
+- 3D Visualization: Some advanced EDA tools offer 3D visualization features, allowing designers to view the PCB layout in a three-dimensional space.
