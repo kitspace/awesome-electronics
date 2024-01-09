@@ -21,7 +21,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [PCB Batching Services](#pcb-batching-services)
 - [Part Search Engines](#part-search-engines)
 - [Project Sharing Platforms](#project-sharing-platforms)
-- [Inventory Management and Purchasing](#inventory-management-and-purchasing)
 - [Tools](#tools)
 - [Development Board Retailers](#development-board-retailers)
 - [Subscription Kit Services](#subscription-kit-services)
@@ -205,17 +204,17 @@ This list is for websites, services, software, tools and more: everything that y
 - [WikiFactory](https://wikifactory.com/) - A project hosting and collaboration platform for product development. Filter for "electronics" for more electronics related projects.
 - [Instructables](https://www.instructables.com/) - A social site for sharing projects. Filter for "circuits" for more electronics related projects.
 
+## Tools
+### PCB design tools
+- [Language PCB](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
+- [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
+- [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 
-## Inventory Management and Purchasing
+### Inventory Management and Purchasing
 - [1-click BOM](https://kitspace.org/1-click-bom/) - Browser extensions that automates purchasing and part searching.
 - [PartsBox](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
 - [PartKeepr](https://partkeepr.org) - Open source web service for managing your part inventory with parametric search and automatic datasheet import.
 - [Part-DB](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
-
-## Tools
-- [Language PCB](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
-- [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
-- [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
