@@ -24,31 +24,41 @@ This list is for websites, services, software, tools and more: everything that y
     - [Technical Tutorials](#technical-tutorials)
     - [Courses](#courses)
     - [Theory](#theory)
-    - [Blogs](#blogs)
-    - [Podcasts](#podcasts)
-    - [Forums](#forums)
-      - [Discussion](#discussion)
-      - [Help](#help)
     - [University Course Archives](#university-course-archives)
-    - [Youtube channels](#youtube-channels)
   - [Documentation](#documentation)
+  - [Simulators](#simulators)
+    - [Analog and Mixed Signal Circuit Simulators](#analog-and-mixed-signal-circuit-simulators)
+    - [Verilog HDL Simulators](#verilog-hdl-simulators)
   - [Gerber Viewers](#gerber-viewers)
     - [Online](#online)
     - [Installable](#installable)
+  - [Free EDA Packages](#free-eda-packages)
+  - [Paid EDA Packages](#paid-eda-packages)
+  - [CAD Specific](#cad-specific)
+    - [KiCad](#kicad-1)
+    - [Eagle](#eagle-1)
+    - [Altium](#altium-1)
   - [PCB Batching Services](#pcb-batching-services)
   - [Part Search Engines](#part-search-engines)
   - [Project Sharing Platforms](#project-sharing-platforms)
   - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
   - [Miscellaneous Software Projects](#miscellaneous-software-projects)
   - [Development Board Retailers](#development-board-retailers)
+  - [Blogs](#blogs)
+  - [Forums](#forums)
+    - [Discussion](#discussion)
+    - [Help](#help)
+  - [Podcasts](#podcasts)
+  - [Videos](#videos)
   - [Subscription Kit Services](#subscription-kit-services)
+  - [3D Part Models](#3d-part-models)
   - [Other Lists](#other-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## EDAs
 
-| Name/[Tier](https://github.com/tapyu/to-delete-awesome-electronics/blob/master/contributing.md#tier-description) | Cost | OS | Desciption | [Simu-lation](https://github.com/tapyu/to-delete-awesome-electronics/blob/master/contributing.md#simulation) | [HDL & Syn-thesis](https://github.com/tapyu/to-delete-awesome-electronics/blob/master/contributing.md#hdl--synthesis) | [Verifi-cation](https://github.com/tapyu/to-delete-awesome-electronics/blob/master/contributing.md#verification) | [PCB design](https://github.com/tapyu/to-delete-awesome-electronics/blob/master/contributing.md#pcb-design) |
+| Name | Cost | OS | Desciption | [Simu-lation](https://github.com/tapyu/to-delete-awesome-electronics/blob/master/contributing.md#simulation) | [HDL & Syn-thesis](https://github.com/tapyu/to-delete-awesome-electronics/blob/master/contributing.md#hdl--synthesis) | [Verifi-cation](https://github.com/tapyu/to-delete-awesome-electronics/blob/master/contributing.md#verification) | [PCB design](https://github.com/tapyu/to-delete-awesome-electronics/blob/master/contributing.md#pcb-design) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Altium](https://www.altium.com/) | Paid | Win | A fully-featured editor for schematics that includes a rich set of schematic capture tools to quickly create, edit, simulate, and document schematics. | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) | Free | Win, Mac | The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice). | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: |
