@@ -16,7 +16,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [EDAs](#edas)
 - [EDA-specific Resources](#eda-specific-resources)
 - [Learning](#learning)
-- [Documentation](#documentation)
 - [Gerber Viewers](#gerber-viewers)
 - [PCB Batching Services](#pcb-batching-services)
 - [Part Search Engines](#part-search-engines)
@@ -153,12 +152,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Robert Feranec](https://www.youtube.com/user/matarofe) - 100+ Hardware design tips and tricks. Videos about Schematic design and PCB layout.
 - [Strange Parts](https://strangeparts.com) - [YouTube channel](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw) about electronics, manufacturing, making, world travel, living in and making things in China.
 
-## Documentation
-- [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
-- [Tabula](http://tabula.ondata.it/) - Extract tabular data from a pdf, very useful for extracting pin tables or part characteristics from datasheets.
-- [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
-- [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
-
 ## Gerber Viewers
 
 ### Online
@@ -215,6 +208,14 @@ This list is for websites, services, software, tools and more: everything that y
 - [PartsBox](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
 - [PartKeepr](https://partkeepr.org) - Open source web service for managing your part inventory with parametric search and automatic datasheet import.
 - [Part-DB](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
+
+### Drawing
+- [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
+- [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
+
+### Data extraction
+- [Tabula](http://tabula.ondata.it/) - Extract tabular data from a pdf, very useful for extracting pin tables or part characteristics from datasheets.
+- [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
