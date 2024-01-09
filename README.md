@@ -177,7 +177,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Part Search Engines
 
-| Name | Description | Purchase link | Data-sheet | 3D model | Foot-print model | Sche-matic symbol |
+| Name | Description | Purchase link | Datasheet | 3D model | Footprint model | Schematic symbol |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Octopart](https://octopart.com) | Probably the most well known part search engine. | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [SnapEDA](https://www.snapeda.com) | Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.) | ✅ | ✅ | :x: | ✅ | ✅ |
