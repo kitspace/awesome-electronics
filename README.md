@@ -33,6 +33,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Subscription Kit Services](#subscription-kit-services)
 - [3D Part Models](#3d-part-models)
 - [Other Lists](#other-lists)
+- [Arabic Section](#arabic-section)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
