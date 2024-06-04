@@ -72,6 +72,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Tabula](http://tabula.ondata.it/) - Extract tabular data from a pdf, very useful for extracting pin tables or part characteristics from datasheets.
 - [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
 - [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
+- [tscircuit](https://tscircuit.com) - Open source EDA package for schematic and PCB design using React
 
 ## Simulators
 
