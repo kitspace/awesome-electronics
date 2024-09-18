@@ -164,6 +164,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
 - [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
 - [Electronic Component Search Engine](https://componentsearchengine.com/) - Free access to schematic symbols, PCB footprints and 3D models.
+- [Yoo Need One - SMD Marking Database](https://smd.yooneed.one/) - Surface Mount Device (SMD) component marking database. 
 
 
 ## Project Sharing Platforms
