@@ -194,6 +194,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
 - [Adafruit](https://www.adafruit.com/) - Another retailer and designer with excellent selection and tutorials.
 - [Tindie](https://www.tindie.com) - Marketplace for electronics makers to sell low volume batches of their own designs.
+- [miniTesla](https://minitesla.us) - Designer and retailer of a new solderless electronics development system named miniTesla, a new and improved version of an old Philips system.
 
 ## Blogs
 - [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking with a whole staff of writers.
