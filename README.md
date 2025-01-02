@@ -141,6 +141,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Footprint Collection](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
 - [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 - [KiBot](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+- [typeCAD](https://www.typecad.net): Programmatically create hardware designs with TypeScript. Create/reuse/import version-controlled packages between projects.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
