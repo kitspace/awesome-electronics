@@ -53,7 +53,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Coursera courses related to Electronics](https://www.coursera.org/courses?query=electronics) - Includes some free courses that provide e-certificates on completion.
 
 ### Theory 
-- [Basic Electronics PPT](http://engineering.nyu.edu/gk12/amps-cbri/pdf/Basic%20Electronics.pdf) - Contains conceptual explaination of diode, BJT, J/MOS-FET, LED, 7 seg display, photo-resistor/diode/transistor
 - [Electronics textbook](https://upload.wikimedia.org/wikipedia/commons/e/ee/Electronics.pdf) - Text covers design and function of electronic circuits and components, DC analysis, and AC analysis. 
 - [Student Handbook](http://cbseacademic.nic.in/web_material/Curriculum/Vocational/2018/Basic_Electronics_XI.pdf) - Language used in this book easily understandable covers evolution, fundamentals, diode, rectifiers, transistors and its applications, SCR, DIAC and TRIAC.
 - [Electronics circuits and systems](http://aems.edu.sd/wp-content/uploads/2019/02/Electronics-Circuits-and-Systems-Fourth-Edition-PDFDrive.com-.pdf) - Quality free e-book covering all topics under circuits and systems, highly recommended for conceptual understanding.
