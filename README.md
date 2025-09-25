@@ -180,7 +180,6 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Inventory Management and Purchasing
 - [PartsBox](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
-- [PartKeepr](https://partkeepr.org) - Open source web service for managing your part inventory with parametric search and automatic datasheet import.
 - [Part-DB](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
 - [InvenTree](https://inventree.org) - Open source web service for managing part inventory with parametric search, extensive API and plugin system
 - 
