@@ -148,6 +148,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Altium
 - [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
+- [Parts](https://github.com/armusin/parts) - library sample with the full control over the changes.
 
 
 ## PCB Batching Services
