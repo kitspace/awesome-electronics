@@ -140,6 +140,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Footprint Collection](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
 - [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 - [KiBot](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+- [kicad-happy](https://github.com/aklofas/kicad-happy) - AI-powered design review plugin for KiCad using Claude Code, with schematic analysis, PCB layout review, component sourcing, BOM management, and manufacturing prep.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
