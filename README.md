@@ -165,6 +165,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Electronic Component Search Engine](https://componentsearchengine.com/) - Free access to schematic symbols, PCB footprints and 3D models.
 - [Yoo Need One - SMD Marking Database](https://smd.yooneed.one/) - Surface Mount Device (SMD) component marking database.
 - [JLCSearch](https://jlcsearch.tscircuit.com) - Find the most popular in-stock JLC components for different categories
+- [SheetsData](https://sheetsdata.com) - MCP server that gives AI agents instant access to electronic component datasheets — specs, pinouts, package info extracted from manufacturer PDFs on demand. Works with Claude, Cursor, VS Code, and any MCP-compatible tool.
 
 
 ## Project Sharing Platforms
