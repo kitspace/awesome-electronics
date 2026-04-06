@@ -8,6 +8,7 @@ Experimenting with and building electronic circuits is also a popular hobby and 
 
 This list is for websites, services, software, tools and more: everything that you think is awesome in the world of Electronic Engineering. If you have anything to add please follow the instructions in [contributing.md](contributing.md). 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for electronics development workflow orchestration, automated design management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
