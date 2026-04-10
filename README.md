@@ -178,6 +178,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Instructables](https://www.instructables.com/) - A social site for sharing projects. Filter for "circuits" for more electronics related projects.
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=kitspace_awesome-electronics) - Follow designers and frontend devs on GitHub, see what UI repos and tools they are into.
 ## Inventory Management and Purchasing
 - [PartsBox](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
 - [Part-DB](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
