@@ -49,6 +49,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Khan Academy - Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering) - Non-profit learning platform with a full course on electrical engineering and related topics.
 - [NEETS (Navy Electricity and Electronics Training Series)](https://www.fcctests.com/neets/Neets.htm) - U.S. Navy Non-Resident Training Course Material.
 - [NPTEL](https://nptel.ac.in/course.html) - Has all free engineering courses including electronics, electrical and communcation engineering.
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Udemy courses related to Electronics](https://www.udemy.com/topic/electronics/) - Top paid courses available on Udemy.
 - [Coursera courses related to Electronics](https://www.coursera.org/courses?query=electronics) - Includes some free courses that provide e-certificates on completion.
 
