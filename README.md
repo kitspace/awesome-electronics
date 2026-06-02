@@ -26,6 +26,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
 - [Miscellaneous Software Projects](#miscellaneous-software-projects)
 - [Development Board Retailers](#development-board-retailers)
+- [Job Boards](#job-boards)
 - [Blogs](#blogs)
 - [Forums](#forums)
 - [Podcasts](#podcasts)
@@ -194,6 +195,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
 - [Adafruit](https://www.adafruit.com/) - Another retailer and designer with excellent selection and tutorials.
 - [Tindie](https://www.tindie.com) - Marketplace for electronics makers to sell low volume batches of their own designs.
+
+## Job Boards
+- [EmbeddedJobs](https://embedded.jobs) - Job board dedicated to embedded systems and electronics engineering roles.
 
 ## Blogs
 - [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking with a whole staff of writers.
