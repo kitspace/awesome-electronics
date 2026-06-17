@@ -92,6 +92,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
 - [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 - [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
+- [Velxio](https://velxio.dev) - Free, open source, fully local Arduino simulator with real AVR8, RP2040 and ESP32 emulation, a visual circuit canvas and an in-browser code editor.
 
 ### Verilog HDL Simulators
 
