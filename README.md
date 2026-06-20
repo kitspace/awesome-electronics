@@ -148,6 +148,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Altium
 - [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
+- [eda-agent](https://github.com/salitronic/eda-agent) - Open-source MCP server for automating a live Altium Designer session, with tools for schematic, PCB, library, and project tasks.
 
 
 ## PCB Batching Services
