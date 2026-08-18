@@ -165,6 +165,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Electronic Component Search Engine](https://componentsearchengine.com/) - Free access to schematic symbols, PCB footprints and 3D models.
 - [Yoo Need One - SMD Marking Database](https://smd.yooneed.one/) - Surface Mount Device (SMD) component marking database.
 - [JLCSearch](https://jlcsearch.tscircuit.com) - Find the most popular in-stock JLC components for different categories
+- [PartGenie](https://www.partgenie.ai) - Free AI-powered part search with natural-language queries, pin-compatible alternatives, and BOM analysis.
 
 
 ## Project Sharing Platforms
