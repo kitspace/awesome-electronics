@@ -51,6 +51,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [NPTEL](https://nptel.ac.in/course.html) - Has all free engineering courses including electronics, electrical and communcation engineering.
 - [Udemy courses related to Electronics](https://www.udemy.com/topic/electronics/) - Top paid courses available on Udemy.
 - [Coursera courses related to Electronics](https://www.coursera.org/courses?query=electronics) - Includes some free courses that provide e-certificates on completion.
+- [Knowledge Navigator - Electrical & Electronics Engineer Roadmap](https://mohamedmuneerm.github.io/knowledge-navigator/#/r/electrical-electronics-engineer) - Free, open-source learning path from basic electricity to power systems, RF and VLSI, showing what to learn before each topic.
 
 ### Theory 
 - [Electronics textbook](https://upload.wikimedia.org/wikipedia/commons/e/ee/Electronics.pdf) - Text covers design and function of electronic circuits and components, DC analysis, and AC analysis. 
