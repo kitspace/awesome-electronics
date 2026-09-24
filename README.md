@@ -190,6 +190,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
 - [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 - [KiCanvas](https://kicanvas.org/) - An open source online viewer of KiCad schematics and boards.
+- [HardHatMath Ohm’s Law Calculator](https://hardhatmath.com/electrical/ohms-law-calculator/) - Free browser-based voltage, current, resistance and power calculator for DC and resistive AC circuits, with formula explanations.
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
