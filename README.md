@@ -106,6 +106,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) - 3D Gerber viewer.
 - [CircuitPeople](https://circuitpeople.com) - No frills 2D layer viewer for Gerbers, without the excessive processing.
 - [Stackrate Viewer](https://stackrate.de/viewer/) - Easy to use online gerber viewer with trace hovering and measurement tools.
+- [Loft Gerber Viewer](https://lofttools.com/tools/open-tools/gerber-viewer/) - Browser Gerber viewer that also opens IPC-2581 and ODB++ (rigid-flex too). Measuring, revision compare and a 3D view.
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
