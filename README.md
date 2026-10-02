@@ -44,6 +44,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Soldering is Easy](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) - Comic book that goes over the basics of soldering that has been translated into quite a few languages.
 - [Uses of Different Soldering Iron Tips](https://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/) - Covers what all those different soldering iron tips are good for.
 - [How to design a motherboard for your electronics project](https://www.staycaffeinated.com/2021/02/21/how-to-design-a-motherboard-for-your-project-part-1) - Introductory tutorial on Schematic & PCB design
+- [DJI Battery Charging Diagnosis](https://reboot-hub.com/blogs/support-learning/dji-battery-not-charging-diagnosis) - Evidence-led troubleshooting of batteries, adapters, cables, and charging hubs using one compatible substitution at a time, with clear stop-use conditions.
 
 ### Courses
 - [Khan Academy - Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering) - Non-profit learning platform with a full course on electrical engineering and related topics.
