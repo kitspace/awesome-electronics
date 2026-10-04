@@ -21,6 +21,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Paid EDA Packages](#paid-eda-packages)
 - [CAD Specific](#cad-specific)
 - [PCB Batching Services](#pcb-batching-services)
+- [Hardware Development Services](#hardware-development-services)
 - [Part Search Engines](#part-search-engines)
 - [Project Sharing Platforms](#project-sharing-platforms)
 - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
@@ -158,6 +159,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - Low cost PCB batching service that prides itself on its "dirty" quality.
 - [JLCPCB](https://jlcpcb.com/) - Low cost PCB batching service with inhouse low cost SMT service.
 - [PCBWay](https://www.pcbway.com/) - Low cost PCB batching service with PCBA, CNC and 3D-Printing services.
+
+## Hardware Development Services
+- [Anvol](https://block-less.com/how-anvol-works) - Describe a device in plain words; engineers in Shenzhen design it, prototype it and build small batches. Real development fees and unit prices from delivered builds are published as [open data](https://github.com/ChrisWu132/hardware-prototype-costs) (CC BY 4.0).
 
 ## Part Search Engines
 - [Octopart](https://octopart.com) - Probably the most well known part search engine.
