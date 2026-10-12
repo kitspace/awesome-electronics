@@ -80,6 +80,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice).
 - [ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
 - [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) - Free, open source online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad).
+- [CircuitSim](https://circuitsim.com/) - Browser-based SPICE simulator with schematic capture, a free tier, custom components from SPICE models or KiCad symbols, and Multisim Live file import.
 - [EveryCircuit](https://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
 - [Qucs](http://qucs.sourceforge.net/) - Open source, cross-platform, non-SPICE-based circuit simulator, with with S-parameter and Harmonic Balance capability.
 - [Qucs-S](https://ra3xdh.github.io/) - Open source fork of Qucs using SPICE for simulation.
