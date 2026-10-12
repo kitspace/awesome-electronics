@@ -97,7 +97,11 @@ This list is for websites, services, software, tools and more: everything that y
 
 - [Verilator](https://www.veripool.org/wiki/verilator) - Free, open source Verilog compiler. Test benches are in C++ or SystemC. Very fast, but limted to 2-state, cycle-based simulation, and synthesizeable code only.
 - [Icarus Verilog](http://iverilog.icarus.com/) - Free, open source verilog interpreter. Test benches are in behavioral verilog. Simulation is 4-state, and event-based.
+- [GtkWave] () - GTKWave is a wave viewer, primarily used for debugging digital designs (like those described in Verilog or VHDL) by analyzing simulation output files.
 
+### VHDL Simulators
+- [GHDL] (http://ghdl.free.fr/) - GHDL is an open-source compiler and simulator for the VHDL hardware description language. It allows you to analyze, elaborate, and simulate VHDL code, directly translating it into machine code.
+- [GtkWave] (https://gtkwave.sourceforge.net/) - GTKWave is a wave viewer, primarily used for debugging digital designs (like those described in Verilog or VHDL) by analyzing simulation output files.
 ## Gerber Viewers
 
 ### Online
