@@ -2,9 +2,15 @@
 
 ## Table of Contents
 
+- [No self promotion](#no-self-promotion)
 - [Adding to this list](#adding-to-this-list)
 - [Adding something to an awesome list](#adding-something-to-an-awesome-list)
 - [Updating your Pull Request](#updating-your-pull-request)
+
+
+## No self-promotion
+
+Please only add projects to the list that you are not personally affiliated with.
 
 ## Adding to this list
 
