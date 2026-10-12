@@ -177,6 +177,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Eyrie](https://eyrie.io) - For viewing Eagle and KiCad designs online.
 - [WikiFactory](https://wikifactory.com/) - A project hosting and collaboration platform for product development. Filter for "electronics" for more electronics related projects.
 - [Instructables](https://www.instructables.com/) - A social site for sharing projects. Filter for "circuits" for more electronics related projects.
+- [BoardRepo](https://boardrepo.com) - Project hosting for KiCad and Altium designs that renders schematics, PCB views and BOM in the browser and generates gerbers from the sources.
 
 
 ## Inventory Management and Purchasing
