@@ -183,6 +183,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [PartsBox](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
 - [Part-DB](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
 - [InvenTree](https://inventree.org) - Open source web service for managing part inventory with parametric search, extensive API and plugin system
+- [LabStock](https://labstock.com.tr) - Free desktop (Windows/Linux) and web app for part inventory: location tree with QR labels, LCSC auto-fill and part counting with your phone camera.
 - 
 ## Miscellaneous Software Projects
 - [SnapEDA](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
