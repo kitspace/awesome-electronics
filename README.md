@@ -161,7 +161,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [PCBWay](https://www.pcbway.com/) - Low cost PCB batching service with PCBA, CNC and 3D-Printing services.
 
 ## Hardware Development Services
-- [Anvol](https://block-less.com/how-anvol-works) - Describe a device in plain words; engineers in Shenzhen design it, prototype it and build small batches. Real development fees and unit prices from delivered builds are published as [open data](https://github.com/ChrisWu132/hardware-prototype-costs) (CC BY 4.0).
+- [Anvol](https://anvol.dev) - Engineers in Shenzhen take hardware from prototype to small-batch production. Development fees and unit prices from one delivered batch and two reference builds are published as [open data](https://github.com/ChrisWu132/hardware-prototype-costs) (CC BY 4.0).
 
 ## Part Search Engines
 - [Octopart](https://octopart.com) - Probably the most well known part search engine.
