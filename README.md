@@ -188,6 +188,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [SnapEDA](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
 - [Language PCB](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
 - [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
+- [SensorCatalog](https://sensorcatalog.com/) - Free browser calculators for sensor and instrumentation work: 4–20 mA scaling and loop power, PT100/thermocouple/NTC, load cell and strain-gauge bridges, Modbus register decoding, and IP/Ex marking decoders.
 - [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 - [KiCanvas](https://kicanvas.org/) - An open source online viewer of KiCad schematics and boards.
 
