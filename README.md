@@ -141,6 +141,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 - [KiBot](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
 - [Awesome KiCad Projects](https://github.com/way2pramil/awesome-kicad-projects) - Curated list of open source hardware projects whose PCBs are designed in KiCad.
+- [Calligraphy KiCad Plugin](https://github.com/calligraphysystems/calligraphy-kicad-plugin) - Open source KiCad Action Plugin and Model Context Protocol (MCP) server for PCB trace impedance calculation, DFM rule auditing, and multi-layer trace routing.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
