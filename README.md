@@ -32,6 +32,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Videos](#videos)
 - [Subscription Kit Services](#subscription-kit-services)
 - [3D Part Models](#3d-part-models)
+- [News](#news)
 - [Other Lists](#other-lists)
 - [Arabic Section](#arabic-section)
 
@@ -72,6 +73,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
 - [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
 - [tscircuit](https://tscircuit.com) - Open source EDA package for schematic and PCB design using React
+- [OminiPCB](https://ominipcb.com/pcb-manufacturing) - PCB manufacturing reference covering materials, stack-up, copper, controlled impedance, surface finish, panelization, and manufacturing considerations.
 
 ## Simulators
 
@@ -190,6 +192,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
 - [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 - [KiCanvas](https://kicanvas.org/) - An open source online viewer of KiCad schematics and boards.
+- [OminiPCB Engineering Tools](https://ominipcb.com/engineering-tools) - Online PCB engineering calculators and tools for trace width, impedance, stack-up, vias, cost, weight, panelization, and manufacturing calculations.
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
@@ -204,6 +207,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Hackster.io](https://www.hackster.io/news) - Another blog covering electronics.
 - [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
 - [N-O-D-E](https://n-o-d-e.net/) - Blog about DIY electronics, hardware, and technology.
+- [OminiPCB Blog](https://ominipcb.com/blog) - Articles covering PCB design, manufacturing, PCBA, EMS, DFM, component sourcing, and electronics engineering.
 
 
 ## Forums
@@ -250,6 +254,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models.
 - [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login).
 
+## News
+- [PCB Today](https://ominipcb.com/pcb-today) - PCB industry intelligence covering manufacturing, electronics supply chains, technology developments, and market trends.
+
 ## Other Lists
 - [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
 - [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
@@ -268,5 +275,4 @@ This list is for websites, services, software, tools and more: everything that y
  - [Complete Digital Electronics Course](https://youtube.com/playlist?list=PLww54WQ2wa5obq6IbRbIiql8oHaTUp3T_&si=I4mqjy3JUZ8xmElT) - دورة الالكترونيات الرقمية
  - [professional Electronics Design](https://youtube.com/playlist?list=PLww54WQ2wa5oKEhE_D3UVbKWwml8o8_Fu&si=BF213_MSJwSiyvIV) - دورة التصميم الالكتروني المحترف كاملة
  - [professional PCB Design](https://www.youtube.com/playlist?list=PLww54WQ2wa5pBm96kQTkqAyMXn9F4Q0i9) - دورة تصميم اللوحات المطبوعة (PCB)
-
 
