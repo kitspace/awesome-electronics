@@ -94,7 +94,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
 - [PySCPI-Lab](https://pyvisa-scpi-oscilloscope-simulator-wpv57wzndtjiekb6auylfj.streamlit.app/) - Web-based virtual oscilloscope, DMM, signal generator, and DC power supply controlled via SCPI commands (pyvisa-sim + Streamlit).[GitHub Project](https://github.com/hzzqq1/Pyvisa-SCPI-Oscilloscope-Simulator)
 
-
 ### Verilog HDL Simulators
 
 - [Verilator](https://www.veripool.org/wiki/verilator) - Free, open source Verilog compiler. Test benches are in C++ or SystemC. Very fast, but limted to 2-state, cycle-based simulation, and synthesizeable code only.
